@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title th:text="${title}">CSV File Splitter</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .file-upload-container {
+            border: 2px dashed #dee2e6;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            background-color: #f8f9fa;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .file-upload-container:hover {
+            border-color: #0d6efd;
+            background-color: #e7f1ff;
+        }
+        .file-upload-container.dragover {
+            border-color: #0d6efd;
+            background-color: #e7f1ff;
+        }
+        .file-info {
+            display: none;
+            background-color: #d1ecf1;
+            border: 1px solid #bee5eb;
+            border-radius: 5px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        .progress-container {
+            display: none;
+            margin-top: 20px;
+        }
+        .result-container {
+            display: none;
+            margin-top: 20px;
+        }
+        .card-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+        }
+        .btn-primary:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+        }
+        .form-label {
+            font-weight: 600;
+            color: #495057;
+        }
+        .input-group-text {
+            background-color: #e9ecef;
+            border-color: #ced4da;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card shadow">
+                    <div class="card-header text-center py-4">
+                        <h2 class="mb-0">
+                            <i class="fas fa-file-csv me-2"></i>
+                            Professional CSV File Splitter
+                        </h2>
+                        <p class="mb-0 mt-2 opacity-75">Split large CSV files into smaller, manageable chunks</p>
+                    </div>
+                    <div class="card-body p-4">
+                        <form id="fileSplitForm" enctype="multipart/form-data">
+                            
+                            <!-- File Upload Section -->
+                            <div class="mb-4">
+                                <label class="form-label">
+                                    <i class="fas fa-upload me-2"></i>Source File Upload
+                                </label>
+                                <div class="file-upload-container" id="fileUploadContainer">
+                                    <i class="fas fa-cloud-upload-alt fa-3x text-muted mb-3"></i>
+                                    <h5 class="text-muted">Drag & drop your CSV file here</h5>
+                                    <p class="text-muted mb-3">or click to browse files</p>
+                                    <input type="file" id="sourceFile" name="sourceFile" accept=".csv,.txt" class="d-none" required>
+                                    <button type="button" class="btn btn-outline-primary" onclick="document.getElementById('sourceFile').click()">
+                                        <i class="fas fa-folder-open me-2"></i>Browse Files
+                                    </button>
+                                </div>
+                                <div class="file-info" id="fileInfo">
+                                    <div class="d-flex align-items-center">
+                                        <i class="fas fa-file-csv text-success me-3 fa-2x"></i>
+                                        <div>
+                                            <h6 class="mb-1" id="fileName">File name</h6>
+                                            <small class="text-muted" id="fileSize">File size</small>
+                                        </div>
+                                        <button type="button" class="btn btn-sm btn-outline-danger ms-auto" onclick="clearFile()">
+                                            <i class="fas fa-times"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Configuration Section -->
+                            <div class="row mb-4">
+                                <div class="col-md-6">
+                                    <label for="rowsPerFile" class="form-label">
+                                        <i class="fas fa-list-ol me-2"></i>Records Per Output File
+                                    </label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">
+                                            <i class="fas fa-hashtag"></i>
+                                        </span>
+                                        <input type="number" class="form-control" id="rowsPerFile" name="rowsPerFile" 
+                                               min="1" value="50" required placeholder="e.g., 50">
+                                    </div>
+                                    <div class="form-text">Specify how many data records each output file should contain</div>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="filePrefix" class="form-label">
+                                        <i class="fas fa-tag me-2"></i>Output File Prefix
+                                    </label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">
+                                            <i class="fas fa-file-signature"></i>
+                                        </span>
+                                        <input type="text" class="form-control" id="filePrefix" name="filePrefix" 
+                                               value="split_data" placeholder="e.g., split_data">
+                                    </div>
+                                    <div class="form-text">Prefix for naming the generated output files</div>
+                                </div>
+                            </div>
+
+                            <!-- Output Directory Section -->
+                            <div class="mb-4">
+                                <label for="outputDirectory" class="form-label">
+                                    <i class="fas fa-folder me-2"></i>Output Directory Path
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-folder-open"></i>
+                                    </span>
+                                    <input type="text" class="form-control" id="outputDirectory" name="outputDirectory" 
+                                           value="./output" required placeholder="e.g., C:\output or ./output">
+                                    <button type="button" class="btn btn-outline-secondary" onclick="setDefaultPath()">
+                                        <i class="fas fa-home me-1"></i>Default
+                                    </button>
+                                </div>
+                                <div class="form-text">Specify the directory where split files will be saved</div>
+                            </div>
+
+                            <!-- Submit Button -->
+                            <div class="d-grid gap-2">
+                                <button type="submit" class="btn btn-primary btn-lg" id="submitBtn">
+                                    <i class="fas fa-scissors me-2"></i>Split File
+                                </button>
+                            </div>
+                        </form>
+
+                        <!-- Progress Section -->
+                        <div class="progress-container" id="progressContainer">
+                            <div class="d-flex align-items-center mb-2">
+                                <i class="fas fa-cog fa-spin text-primary me-2"></i>
+                                <span>Processing file...</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" 
+                                     role="progressbar" style="width: 100%"></div>
+                            </div>
+                        </div>
+
+                        <!-- Results Section -->
+                        <div class="result-container" id="resultContainer">
+                            <div class="alert" id="resultAlert" role="alert"></div>
+                            <div id="resultDetails"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // File upload handling
+        const fileUploadContainer = document.getElementById('fileUploadContainer');
+        const fileInput = document.getElementById('sourceFile');
+        const fileInfo = document.getElementById('fileInfo');
+        const form = document.getElementById('fileSplitForm');
+
+        // Drag and drop functionality
+        fileUploadContainer.addEventListener('click', () => fileInput.click());
+        fileUploadContainer.addEventListener('dragover', handleDragOver);
+        fileUploadContainer.addEventListener('dragleave', handleDragLeave);
+        fileUploadContainer.addEventListener('drop', handleDrop);
+
+        fileInput.addEventListener('change', handleFileSelect);
+        form.addEventListener('submit', handleFormSubmit);
+
+        function handleDragOver(e) {
+            e.preventDefault();
+            fileUploadContainer.classList.add('dragover');
+        }
+
+        function handleDragLeave(e) {
+            e.preventDefault();
+            fileUploadContainer.classList.remove('dragover');
+        }
+
+        function handleDrop(e) {
+            e.preventDefault();
+            fileUploadContainer.classList.remove('dragover');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                fileInput.files = files;
+                handleFileSelect();
+            }
+        }
+
+        function handleFileSelect() {
+            const file = fileInput.files[0];
+            if (file) {
+                document.getElementById('fileName').textContent = file.name;
+                document.getElementById('fileSize').textContent = formatFileSize(file.size);
+                fileInfo.style.display = 'block';
+                fileUploadContainer.style.display = 'none';
+            }
+        }
+
+        function clearFile() {
+            fileInput.value = '';
+            fileInfo.style.display = 'none';
+            fileUploadContainer.style.display = 'block';
+            hideResults();
+        }
+
+        function setDefaultPath() {
+            document.getElementById('outputDirectory').value = './output';
+        }
+
+        function formatFileSize(bytes) {
+            if (bytes === 0) return '0 Bytes';
+            const k = 1024;
+            const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+            const i = Math.floor(Math.log(bytes) / Math.log(k));
+            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+        }
+
+        function showProgress() {
+            document.getElementById('progressContainer').style.display = 'block';
+            document.getElementById('submitBtn').disabled = true;
+            hideResults();
+        }
+
+        function hideProgress() {
+            document.getElementById('progressContainer').style.display = 'none';
+            document.getElementById('submitBtn').disabled = false;
+        }
+
+        function showResults(success, message, data = null) {
+            const resultContainer = document.getElementById('resultContainer');
+            const resultAlert = document.getElementById('resultAlert');
+            const resultDetails = document.getElementById('resultDetails');
+
+            resultAlert.className = `alert ${success ? 'alert-success' : 'alert-danger'}`;
+            resultAlert.innerHTML = `
+                <i class="fas ${success ? 'fa-check-circle' : 'fa-exclamation-triangle'} me-2"></i>
+                ${message}
+            `;
+
+            if (success && data) {
+                resultDetails.innerHTML = `
+                    <div class="row mt-3">
+                        <div class="col-md-6">
+                            <div class="card bg-light">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title text-primary">${data.totalRowsProcessed}</h5>
+                                    <p class="card-text mb-0">Total Records Processed</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card bg-light">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title text-success">${data.numberOfFilesCreated}</h5>
+                                    <p class="card-text mb-0">Files Created</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3">
+                        <h6>Created Files:</h6>
+                        <ul class="list-group">
+                            ${data.createdFiles.map(file => `
+                                <li class="list-group-item d-flex align-items-center">
+                                    <i class="fas fa-file-csv text-success me-2"></i>
+                                    <span>${file}</span>
+                                </li>
+                            `).join('')}
+                        </ul>
+                        <div class="mt-2">
+                            <small class="text-muted">
+                                <i class="fas fa-folder me-1"></i>
+                                Output Directory: ${data.outputDirectory}
+                            </small>
+                        </div>
+                    </div>
+                `;
+            } else {
+                resultDetails.innerHTML = '';
+            }
+
+            resultContainer.style.display = 'block';
+        }
+
+        function hideResults() {
+            document.getElementById('resultContainer').style.display = 'none';
+        }
+
+        async function handleFormSubmit(e) {
+            e.preventDefault();
+            
+            if (!fileInput.files[0]) {
+                alert('Please select a file to upload');
+                return;
+            }
+
+            showProgress();
+
+            const formData = new FormData();
+            formData.append('sourceFile', fileInput.files[0]);
+            formData.append('rowsPerFile', document.getElementById('rowsPerFile').value);
+            formData.append('outputDirectory', document.getElementById('outputDirectory').value);
+            formData.append('filePrefix', document.getElementById('filePrefix').value);
+
+            try {
+                const response = await fetch('/api/file-splitter/split', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+                
+                if (result.success) {
+                    showResults(true, result.message, result);
+                } else {
+                    showResults(false, result.message);
+                }
+            } catch (error) {
+                showResults(false, 'Network error: ' + error.message);
+            } finally {
+                hideProgress();
+            }
+        }
+    </script>
+</body>
+</html>
