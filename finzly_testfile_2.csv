@@ -1,0 +1,1001 @@
+type,name,address,city,state,countryCode,zipCode,country
+Entity,ANGLO-CARIBBEAN CO.  LTD.,Ibex House  The Minories,London EC3N 1DY,,,,United Kingdom
+Entity,ETCO INTERNATIONAL COMMODITIES LTD.,Devonshire House  1 Devonshire Street,London,,,,United Kingdom
+Entity,HAVIN BANK LIMITED,4th Floor  189 Marsh Wall,London E14 9SH,,,,United Kingdom
+Entity,LA EMPRESA CUBANA DE FLETES,,Pyongyang,,,,Korea  North
+Entity,NIREF,Boezembolcht 23,Rotterdam,,,,Netherlands
+Individual,ABBAS  Abu,,,,,,
+Individual,AL RAHMAN  Shaykh Umar Abd,,,,,,
+Individual,AL ZAWAHIRI  Dr. Ayman,,,,,,
+Individual,AWDA  Abd Al Aziz,,,,,,
+Individual,FADLALLAH  Shaykh Muhammad Husayn,,,,,,
+Individual,HAWATMA  Nayif,,,,,,
+Individual,ISLAMBOULI  Mohammad Shawqi,,,,,,
+Individual,JABRIL  Ahmad,,,,,,
+Individual,NAJI  Talal Muhammad Rashid,,,,,,
+Individual,TUFAYLI  Subhi,,,,,,
+Individual,YASSIN  Sheik Ahmed Ismail,,Gaza Strip,,,,undetermined
+Individual,ABU MARZOOK  Mousa Mohammed,,,,,,
+Vessel,MAR AZUL,,,,,,
+Vessel,EBANO,,,,,,
+Vessel,TIFON,,,,,,
+Individual,ABDALLAH  Ramadan,,Damascus,,,,Syria
+Entity,BANK MARKAZI JOMHOURI ISLAMI IRAN,PO Box 15875/7177  144 Mirdamad Blvd,Tehran,,,,Iran
+Entity,BANK MASKAN,PO Box 11365/5699  No 247 3rd Floor Fedowsi Ave  Cross Sarhang Sakhaei St,Tehran,,,,Iran
+Entity,BANK REFAH KARGARAN,No. 40 North Shiraz Street  Mollasadra Ave  Vanak Sq,Tehran 19917,,,,Iran
+Entity,BANK KESHAVARZI IRAN,PO Box 14155-6395  129 Patrice Lumumba St  Jalal-al-Ahmad Expressway,Tehran 14454,,,,Iran
+Individual,UTHMAN  Omar Mahmoud,,London,,,,United Kingdom
+Entity,AL-HARAMAIN ISLAMIC FOUNDATION,,,,SO,,Somalia
+Entity,THE AID ORGANIZATION OF THE ULEMA,Kitab Ghar  Darul Ifta Wal Irshad  Nazimabad No. 4,Karachi,,PK,,Pakistan
+Individual,AOUADI  Mohamed Ben Belgacem,Via A. Masina n.7,Milano,,IT,,Italy
+Individual,BOUCHOUCHA  Mokhtar,Via Milano n.38,Spinadesco  CR,,IT,,Italy
+Individual,ES SAYED  Abdelkader Mahmoud,Via del Fosso di Centocelle n.66,Roma,,IT,,Italy
+Individual,ESSID  Sami Ben Khemais,Via Dubini n.3,Gallarate  VA,,IT,,Italy
+Entity,ASKATASUNA,,,,ES,,Spain
+Individual,CHEKKOURI  Yassine,,,,,,
+Individual,JELASSI  Riadh Ben Belkassem Ben Mohamed,,,,,,
+Individual,KAMMOUN  Mehdi,Via Masina n.7,Milan,,IT,,Italy
+Individual,KISHK  Samir,,,,,,
+Individual,MAAROUFI  Tarek Ben Habib Ben Al-Toumi,,,,,,
+Individual,REMADNA  Abdelhalim,,,,,,
+Individual,THAER  Mansour,,,,,,
+Individual,TLILI  Al-Azhar Ben Ammar Ben Abadallah,Via Carlo Porta n.97,Legnano,,IT,,Italy
+Individual,WADDANI  Habib,Via unica Borighero n.1,San Donato M.se  MI,,IT,,Italy
+Entity,EASTERN TURKISTAN ISLAMIC MOVEMENT,,,,,,
+Individual,JULAIDAN  Wa'el Hamza Abd Al-Fatah,,,,,,
+Individual,BAHAJI  Said,12 Rue Descartes,Meknes,,MA,,Morocco
+Individual,BINALSHIBH  Ramzi Mohammed Abdullah,Guantanamo Bay detention center,,,CU,,Cuba
+Individual,EL MOTASSADEQ  Mounir,Goschenstasse 13,Hamburg 21073,,DE,,Germany
+Individual,ESSABAR  Zakarya,Dortmunder Strasse 38,Hamburg 22419,,DE,,Germany
+Entity,TUNISIAN COMBAT GROUP,,,,,,
+Entity,GLOBAL RELIEF FOUNDATION  INC.,P.O. Box 1406,Bridgeview  IL 60455,,,,United States
+Entity,JEMAA ISLAMIYAH,,,,,,
+Individual,GOMEZ BUSTAMANTE  Luis Hernando,Km 7 Via Cartago-Obando  Hacienda El Vergel,Cartago,,CO,,Colombia
+Individual,MONTOYA SANCHEZ  Diego Leon,Diagonal 27 No. 27-104,Cali,,CO,,Colombia
+Entity,AGRICOLA DOIMA DEL NORTE DEL VALLE LTDA.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,AGROPECUARIA MIRALINDO S.A.,Carrera 8N No. 17A-12,Cartago,,CO,,Colombia
+Entity,ARIZONA S.A.,Carrera 8N No. 17A-12,Cartago,,CO,,Colombia
+Entity,GANADERIA EL VERGEL LTDA.,Carrera 4 No. 12-20 of. 206,Cartago Valle,,CO,,Colombia
+Entity,GANADERIAS BILBAO LTDA.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,INMOBILIARIA EL ESCORIAL LTDA.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,INMOBILIARIA LINARES LTDA.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,INMOBILIARIA PASADENA LTDA.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,INVERSIONES LA QUINTA Y CIA. LTDA.,Diagonal 29 No. 36-10 of. 801,Cali,,CO,,Colombia
+Entity,LADRILLERA LA CANDELARIA LTDA.,Avenida 6 Norte No. 17N-92  of. 514,Cali,,CO,,Colombia
+Entity,MONTOYA LUNA E HIJOS Y CIA. S.C.S.,Carrera 85B No. 13A-136,Cali,,CO,,Colombia
+Entity,ORGANIZACION LUIS HERNANDO GOMEZ BUSTAMANTE Y CIA S.C.S.,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Entity,VISCAYA LTDA.,Carrera 3 No. 11-99,Cartago  Valle,,CO,,Colombia
+Individual,GOMEZ APONTE  Laura Victoria,Carrera 4A No. 63N-29,Cali,,CO,,Colombia
+Individual,GOMEZ GOMEZ  Viviana,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Individual,GOMEZ JARAMILLO  Olga Cecilia,Carrera 4 No. 12-20 of. 206,Cartago  Valle,,CO,,Colombia
+Individual,HURTADO ROMERO  Jairo Jose,Carrera 42 No. 5B-81,Cali,,CO,,Colombia
+Individual,MENDEZ SALAZAR  John Jairo,Calle 1 No. 56-109 Casa 32,Cali,,CO,,Colombia
+Individual,MONTOYA SANCHEZ  Eugenio,Diagonal 27 No. 27-104,Cali,,CO,,Colombia
+Individual,MONTOYA SANCHEZ  Juan Carlos,Carrera 85B No. 13A-136,Cali,,CO,,Colombia
+Individual,RUIZ CASTANO  Maria Helena,c/o LADRILLERA LA CANDELARIA LTDA.,Cali,,CO,,Colombia
+Individual,ECHEBERRIA SIMARRO  Leire,,,,,,
+Individual,ECHEGARAY ACHIRICA  Alfonso,,,,,,
+Individual,IZTUETA BARANDICA  Enrique,,,,,,
+Individual,VALLEJO FRANCO  Inigo,,,,,,
+Entity,BENEVOLENCE INTERNATIONAL FOUNDATION,Bashir Safar Ugli 69,Baku,,AZ,,Azerbaijan
+Entity,BENEVOLENCE INTERNATIONAL FUND,2465 Cawthra Rd.  Unit 203  Mississauga,Ontario L5A 3P2,,CA,,Canada
+Entity,BOSANSKA IDEALNA FUTURA,Salke Lagumdzije 12,Sarajevo 71000,,BA,,Bosnia and Herzegovina
+Entity,MOROCCAN ISLAMIC COMBATANT GROUP,,,,,,
+Entity,LAJNAT AL DAAWA AL ISLAMIYYA,,,,KW,,Kuwait
+Individual,SAYADI  Nabil Abdul Salam,69 Rue des Bataves  1040 Etterbeek,Brussels,,BE,,Belgium
+Individual,ISAMUDDIN  Nurjaman Riduan,Guantanamo Bay detention center,,,CU,,Cuba
+Individual,ABDURRAHMAN  Mohamad Iqbal,Jalan Nakula  Komplek Witana Harja III  Blok C 106-107  Pamulang,Tangerang,,ID,,Indonesia
+Entity,STICHTING BENEVOLENCE INTERNATIONAL NEDERLAND,Radeborg 14 B,Maastricht 6228CV,,,,Netherlands
+Entity,LASHKAR I JHANGVI,,,,,,
+Individual,HEKMATYAR  Gulbuddin,,,,,,Iran
+Entity,ANSAR AL-ISLAM,,,,IQ,,Iraq
+Entity,THE RIYADUS-SALIKHIN RECONNAISSANCE AND SABOTAGE BATTALION OF CHECHEN MARTYRS,,,,,,
+Entity,THE SPECIAL PURPOSE ISLAMIC REGIMENT,,,,,,
+Entity,THE ISLAMIC INTERNATIONAL BRIGADE,,,,,,
+Individual,CHIWENGA  Constantino Guveya,,,,ZW,,Zimbabwe
+Individual,MNANGAGWA  Emmerson Dambudzo,Munhumutapa Building  Corner of Second and Samora Machel Avenue,Harare,,ZW,,Zimbabwe
+Individual,MUCHINGURI  Oppah Charm Zvipange,2 Tedder Road  Greendale,Harare 263,,ZW,,Zimbabwe
+Individual,VALENCIA TRUJILLO  Joaquin Mario,Carrera 122 No. 20-02,Cali,,CO,,Colombia
+Entity,BANANERA AGRICOLA S.A.,Carrera 2B No. 26-12,Santa Marta,,CO,,Colombia
+Entity,CIA. MINERA DAPA S.A.,Carrera 16 No. 93-38 Ofc. 104,Bogota,,CO,,Colombia
+Entity,COMPANIA DE FOMENTO MERCANTIL S.A.,Avenida 7 Norte No. 23N-81,Cali,,CO,,Colombia
+Entity,CONSTRUCCIONES PROGRESO DEL PUERTO S.A.,Calle 12A No. 26-22,Puerto Tejada,,CO,,Colombia
+Entity,CREDISA S.A.,Avenida 7 Norte No. 23N-81,Cali,,CO,,Colombia
+Entity,CRIADERO LA LUISA E.U.,Avenida 7 Norte No. 23N-81,Cali,,CO,,Colombia
+Entity,DRAGADOS Y MUELLES GAVIOTA LTDA.,Km. 5 Carretera Simon Bolivar,Buenaventura,,CO,,Colombia
+Entity,GRANJA LA SIERRA LTDA.,Carrera 85C No. 43-22,Cali,,CO,,Colombia
+Entity,GRAN MUELLE S.A.,Carrera 3 No. 7-32 Piso 3,Buenaventura,,CO,,Colombia
+Entity,MIRA E.U.,Avenida 8 Norte No. 10-91 Ofc. 301,Cali,,CO,,Colombia
+Entity,OCCIDENTAL DE PAPELES LTDA.,Avenida 2D No. 24N-06,Cali,,CO,,Colombia
+Entity,SERVICIO AEREO DE SANTANDER E.U.,Carrera 66 No. 7-31,Bogota,,CO,,Colombia
+Entity,UNIDAS S.A.,Avenida 7 Norte No. 23N-81,Cali,,CO,,Colombia
+Individual,MONTANO ALVAREZ  Luis Hernando,Carrera 16A No. 33D-20,Cali,,CO,,Colombia
+Entity,TODOBOLSAS Y COLSOBRES,Carrera 20 No. 66-34,Bogota,,CO,,Colombia
+Entity,AL-AQSA FOUNDATION,,,,,,
+Entity,AL-AQSA E.V.,Kappellenstrasse 36,Aachen D-52066,,DE,,Germany
+Entity,STICHTING AL-AQSA,Gerrit V/D Lindestraat 103 A,Rotterdam 3022 TH,,,,Netherlands
+Entity,FORENINGEN AL-AQSA,P.O. Box 6222200KBKN,Copenhagen,,DK,,Denmark
+Entity,AL-AQSA,BD Leopold II 71,Brussels 1080,,BE,,Belgium
+Entity,AQSSA SOCIETY YEMEN,P.O. Box 14101,San 'a,,YE,,Yemen
+Individual,ADEMI  Xhevat,,,,,,
+Individual,ADILI  Gafur,,,,,,
+Entity,ALBANIAN NATIONAL ARMY,,,,,,
+Individual,ALISPAHIC  Bakir,,,,,,
+Entity,ARMY OF THE REPUBLIC OF ILIRIDA,,,,,,
+Individual,BAJAGIC  Zvonko,,,,,,
+Individual,BANOVIC  Predrag,,,,,,
+Individual,BEQIRI  Idajet,,,,,,
+Individual,BEXHETI  Nuri,,,,,,
+Entity,BIO CORPORATION,,Sarajevo,,BA,,Bosnia and Herzegovina
+Individual,BJELICA  Milovan,Starine Novaka Street BB  Sokolac,Republika Srpska,,BA,,Bosnia and Herzegovina
+Individual,BLAGOJEVIC  Vidoje,,,,,,
+Individual,BLASKIC  Tihomir,,,,,,
+Individual,BORAVCANIN  Ljubomir,,,,,,
+Individual,BOSKOVSKI  Ljube,,,,,,
+Individual,BRDJANIN  Radoslav,,,,,,
+Individual,BUTKA  Spiro,,,,,,
+Individual,CERKEZ  Mario,,,,,,
+Individual,CESIC  Ranko,,,,,,
+Individual,CESIC-ROJS  Ljubo,,,,,,
+Entity,CETNIK RAVNAGORSKI POKRET,,,,,,
+Individual,CORIC  Valentin,,,,,,
+Individual,DALIPI  Tahir,,,,,,
+Individual,DELIC  Hazim,,,,,,
+Individual,DOSEN  Damir,,,,,,
+Individual,ELSHANI  Gafur,,,,,,
+Entity,FRONT FOR ALBANIAN NATIONAL UNITY,,,,,,
+Individual,FURUNDZIJA  Anto,,,,,,
+Individual,FUSTAR  Dusan,,,,,,
+Individual,GAJIC-MILOSEVIC  Milica,,,,,,
+Individual,GALIC  Stanislav,,,,,,
+Individual,GRUBAN  Momcilo,,,,,,
+Individual,HABIBI  Skender,,,,,,
+Individual,HADZIHASANOVIC  Enver,,,,,,
+Individual,HALILI  Nevzat,,,,,,
+Individual,HARADINAJ  Daut,,,,,,
+Individual,HASANI  Zhavit,,,,,,
+Individual,HAXHIREXHA  Kastriot,,,,,,
+Individual,IVANOVIC  Milan,,,,,,
+Individual,JAKSIC  Marko,,,,,,
+Individual,JANKOVIC  Gojko,,,,,,
+Individual,JELAVIC  Ante,,,,,,
+Individual,JELISIC  Goran,,,,,,
+Individual,JOKIC  Dragan,,,,,,
+Individual,JOKIC  Miodrag,,,,,,
+Individual,KARADZIC  Luka,Dubrovacka Street No 14,Belgrade,,RS,,Serbia
+Individual,KARADZIC  Radovan,,,,,,
+Individual,KARADZIC-JOVICEVIC  Sonja,,,,,,
+Individual,KNEZEVIC  Dusan,,,,,,
+Individual,KORDIC  Dario,,,,,,
+Individual,KOS  Milojica,,,,,,
+Individual,KOVACEVIC  Vladimir,,,,,,
+Individual,KRNOJELAC  Milorad,,,,,,
+Individual,KRSTIC  Radislav,,,,,,
+Individual,KRYEZIU  Izmet,,,,,,
+Individual,KUBURA  Amir,,,,,,
+Individual,KUNARAC  Dragoljub,,,,,,
+Individual,KVOCKA  Miroslav,,,,,,
+Individual,LALOVIC  Dragan,,,,,,
+Entity,LIBERATION ARMY OF PRESEVO  MEDVEDJA  AND BUJANOVAC,,,,,,
+Individual,LIMAJ  Fatmir,,,,,,
+Individual,LLADROVICI  Ramiz,,,,,,
+Individual,LUKIC  Milan,,,,,,
+Individual,LUKIC  Sredoje,,,,,,
+Individual,LUKOVIC  Milorad Ulemek,,,,,,
+Individual,LUSHTAKU  Sami,,,,,,
+Entity,MANCO OIL COMPANY,,,,,,
+Individual,MANDIC  Momcilo,,,,,,
+Individual,MARKOVIC  Mirjana,,,,,,
+Individual,MARKOVIC  Radovac,,,,,,
+Individual,MARKU  Ton,,,,,,
+Individual,MARTIC  Milan,,,,,,
+Individual,MARTINOVIC  Vinko,,,,,,
+Individual,MEJAKIC  Zeljko,,,,,,
+Individual,MILOSEVIC  Borislav,,,,,,
+Individual,MILOSEVIC  Dragomir,,,,,,
+Individual,MILOSEVIC  Marija,,,,,,
+Individual,MILOSEVIC  Marko,,,,,,
+Individual,MILOSEVIC  Milanka,,,,,,
+Individual,MILOSEVIC  Slobodan,,,,,,
+Individual,MLADIC  Ratko,,,,,,
+Individual,MORINA  Xhavit,,,,,,
+Individual,MRDJA  Darko,,,,,,
+Individual,MUSLIU  Isak,,,,,,
+Individual,MUSLIU  Shefqet,,,,,,
+Individual,MUSTAFA  Rrustem,,,,,,
+Individual,NALETILIC  Mladen,,,,,,
+Entity,NATIONAL COMMITTEE FOR THE LIBERATION AND PROTECTION OF ALBANIAN LANDS,,,,,,
+Entity,NATIONAL MOVEMENT FOR THE LIBERATION OF KOSOVO,,,,,,
+Individual,NDRECAJ  Maliq,,,,,,
+Individual,NIKOLIC  Momir,,,,,,
+Individual,NIKOLIC  Zarko,,,,,,
+Individual,OBRENOVIC  Dragan,,,,,,
+Individual,PANDUREVIC  Vinko,,,,,,
+Individual,PAVKOVIC  Nebojsa,,,,,,
+Individual,PERIC  Jozo,,,,,,
+Individual,PLAVSIC  Biljana,,,,,,
+Entity,POLITICAL COUNCIL OF PRESEVO  MEDVEDJA  AND BUJANOVAC,,,,,,
+Individual,POPOVIC  Vujadin,,,,,,
+Entity,POPULAR MOVEMENT OF KOSOVO,,,,,,
+Individual,PRCAC  Dragoljub,,,,,,
+Entity,PUMA SECURITY COMPANY,,Mostar,,BA,,Bosnia and Herzegovina
+Individual,RADIC  Miroslav,,,,,,
+Individual,RADIC  Mlado,,,,,,
+Individual,RAJIC  Ivica,,,,,,
+Individual,RASEVIC  Mitar,,,,,,
+Individual,REXHEPI  Daut,,,,,,
+Individual,ROGULJIC  Slavko,,,,,,
+Individual,SAHINPASIC  Senad,,,,,,
+Individual,SAINOVIC  Nikola,,,,,,
+Individual,SAMIU  Izair,,,,,,
+Individual,SANTIC  Vladimir,,,,,,
+Individual,SELIMI  Rexhep,,,,,,
+Individual,SESELJ  Vojislav,,,,,,
+Individual,SHAQIRI  Shaqir,,,,,,
+Individual,SIKIRICA  Dusko,,,,,,
+Individual,SIMATOVIC  Franko,,,,,,
+Individual,SIMIC  Blagoje,,,,,,
+Individual,SIMIC  Milan,,,,,,
+Individual,SLJIVANCANIN  Veselin,,,,,,
+Individual,SOPTA  Stanko,,,,,,
+Individual,STAKIC  Milomir,,,,,,
+Individual,STANISIC  Jovica,,,,,,
+Individual,STANKOVIC  Radovan,,,,,,
+Individual,STEPANOVIC  Novak,,,,,,
+Individual,SUMA  Emrush,,,,,,
+Individual,SYLA  Azem,,,,,,
+Individual,TADIC  Dusan,,,,,,
+Individual,TADIC  Miroslav,,,,,,
+Individual,TODOVIC  Savo,,,,,,
+Individual,UKSINI  Sami,,,,,,
+Individual,VASILJEVIC  Mitar,,,,,,
+Individual,VUKOVIC  Zoran,,,,,,
+Individual,XHAFERI  Shefit,,,,,,
+Individual,XHEMAJLI  Emrush,,,,,,
+Individual,XHEMAJLI  Muhamet,,,,,,
+Individual,ZARIC  Simo,,,,,,
+Individual,ZELEN-KARADZIC  Ljiljana,,,,,,
+Individual,ZIGIC  Zoran,,,,,,
+Individual,ZUPLJANIN  Stojan,,,,,,
+Individual,DIAS DE MENDONCA  Leonardo,,,,,,
+Individual,ESPARRAGOZA MORENO  Juan Jose,Avenida Los Angeles No. 5183  Colonia Las Palmas,Tijuana  Baja California CP 22440,,MX,,Mexico
+Individual,PALMA SALAZAR  Hector Luis,,,,,,
+Individual,QUINTERO MERAZ  Jose Albino,,,,,,
+Entity,UNITED WA STATE ARMY,,,,,,
+Individual,ABDAOUI  Youssef,Piazza Giovane Italia n.2,Varese,,IT,,Italy
+Individual,AKLI  Mohamed Amine,,,,,,
+Individual,AMDOUNI  Mehrez,,,,,,
+Individual,AYARI  Chiheb Ben Mohamed,Via di Saliceto n.51/9,Bologna,,IT,,Italy
+Individual,BAAZAOUI  Mondher,Via di Saliceto n.51/9,Bologna,,IT,,Italy
+Individual,DUMONT  Lionel,,,,,,
+Individual,ESSAADI  Moussa Ben Amor Ben Ali,Via Milano n.108,Brescia,,IT,,Italy
+Individual,FETTAR  Rachid,Via degli Apuli n.5,Milan,,IT,,Italy
+Individual,HAMAMI  Brahim Ben Hedili Ben Mohamed,Via de' Carracci n.l5,Casalecchio di Reno  Bologna,,IT,,Italy
+Individual,JARRAYA  Khalil,Via Bellaria n.10,Bologna,,IT,,Italy
+Individual,JARRAYA  Mounir Ben Habib,Via Mirasole n.11,Bologna,,IT,,Italy
+Individual,JENDOUBI  Faouzi Ben Mohamed Ben Ahmed,Via Agucchi n.250,Bologna,,IT,,Italy
+Individual,MNASRI  Fethi Ben Rebai Ben Absha,Via Toscana n.46,Bologna,,IT,,Italy
+Individual,OUAZ  Najib,Vicolo dei Prati n.2/2,Bologna,,IT,,Italy
+Individual,RARRBO  Ahmed Hosni,,,,,,
+Individual,SALEH  Nedal,Via Milano n.105,Casal di Principe  Caserta,,IT,,Italy
+Individual,MZOUDI  Abdelghani,Op de Wisch 15,Hamburg 21149,,DE,,Germany
+Individual,AL-TIKRITI  Saddam Hussein,,,,,,
+Individual,AL-TIKRITI  Qusay Saddam Hussein,,,,,,
+Individual,AL-TIKRITI  Uday Saddam Hussein,,,,,,
+Individual,AL-TIKRITI  Abid Hamid Mahmud,,,,,,
+Individual,AL-TIKRITI  Ali Hassan al-Majid,,,,,,
+Individual,AL-DURI  Izzat Ibrahim,,,,,,
+Individual,AL-TIKRITI  Hani abd-al-Latif Tilfah,,,,,,
+Individual,AL-NUMAN  Aziz Salih,,,,,,
+Individual,ZUBAIDI  Muhammad Hamza,,,,,,
+Individual,AL-TIKRITI  Kamal Mustafa Sultan Abdallah,,,,,,
+Individual,AL-TIKRITI  Barzan abd al-Ghafur Sulaiman Majid,,,,,,
+Individual,AL-TIKRITI  Muzahim Sa'b Hassan,,,,,,
+Individual,AL-TIKRITI  Ibrahim Ahmad abd al-Sattar Muhammed,,,,,,
+Individual,AL-RAWI  Saif-al-Din Fulayyih Hassan Taha,,,,,,
+Individual,AL-TIKRITI  Rafi abd-al-Latif Tilfah,,,,,,
+Individual,AL-TIKRITI  Tahir Jalil Habbush,,,,,,
+Individual,AL-TIKRITI  Hamid Raja Shalah,,,,,,
+Individual,AL-DULAYMI  Latif Nusayyif Jasim,,,,,,
+Individual,HUWAYSH  Abd-al-Tawab Mullah,,,,,,
+Individual,AL-JIZRAWI  Taha Yassin Ramadan,,,,,,
+Individual,AL-TIKRITI  Rukan Razuki abd-al-Ghafur Sulaiman,,,,,,
+Individual,AL-TIKRITI  Jamal Mustafa Abdallah Sultan,,,,,,
+Individual,HADI  Mizban Khadr,,,,,,
+Individual,MA'RUF  Taha Muhyi-al-Din,,,,,,
+Individual,AZIZ  Tariq,,,,,,
+Individual,AL-TIKRITI  Walid Hamid Tawfiq,,,,,,
+Individual,AL-TAI  Sultan Hashim Ahmad,,,,,,
+Individual,AL-AZZAWI  Hikmat Mizban Ibrahim,,,,,,
+Individual,AL-AHMAD  Mahmud Dhiyab,,,,,,
+Individual,AL-RAWI  Ayad Futayyih Khalifa,,,,,,
+Individual,AL-NAQIB  Zuhair Talib abd-al-Sattar,,,,,,
+Individual,AL-SA'DI  Amir Hamudi Hassan,,,,,,
+Individual,AL-UBAIDI  Amir Rashid Muhammad,,,,,,
+Individual,AL-YASSIN  Husam Muhammad Amin,,,,,,
+Individual,AL-TIKRITI  Sab'awi Ibrahim Hassan,,,,,,
+Individual,AL-TIKRITI  Watban Ibrahim Hassan,,,,,,
+Individual,AL-TIKRITI  Barzan Ibrahim Hassan,,Geneva,,CH,,Switzerland
+Individual,AMMASH  Huda Salih Mahdi,,,,,,
+Individual,AL-SAD'UN  Abd-al-Baqi abd-al-Karim Abdallah,,,,,,
+Individual,AL-SA'DUN  Muhammad Zimam abd-al-Razzaq,,,,,,
+Individual,AL-NAJIM  Samir abd al-Aziz,,,,,,
+Individual,ABD-AL-GHAFUR  Humam abd-al-Khaliq,,,,,,
+Individual,AL-UBAIDI  Yahia Abdallah,,,,,,
+Individual,GHALIB  Nayif Shindakh Thamir,,,,,,
+Individual,AL-MASHHADANI  Saif-al-Din,,,,,,
+Individual,GHARIB  Fadil Mahmud,,,,,,
+Individual,AL-KHAFAJI  Muhsin Khadr,,,,,,
+Individual,KAZIM  Rashid Taan,,,,,,
+Individual,AL-KUBAYSI  Ugla Abid Saqar,,,,,,
+Individual,AL-UBAIDI  Ghazi Hammud,,,,,,
+Individual,MAHDI  Adil Abdallah,,,,,,
+Individual,AL-AWADI  Hussein Qaid,,,,,,
+Individual,AL-MUHAMMAD  Khamis Sirhan,,,,,,
+Individual,AL-TIKRITI  Sa'd abd-al-Majid al-Faysal,,,,,,
+Individual,SPASOJEVIC  Dragon,,,,BA,,Bosnia and Herzegovina
+Individual,VASIC  Dragomir,,,,BA,,Bosnia and Herzegovina
+Entity,ASSOCIATION DE SECOURS PALESTINIENS,c/o Faical Yaakoubi  7 rue de l'Ancien Port,Geneva CH-1201,,CH,,Switzerland
+Individual,AL-ALAMI  Imad Khalil,,,,,,
+Individual,HAMDAN  Usama,,Haret Hreik,,LB,,Lebanon
+Individual,MISHAAL  Khalid,,Damascus,,,,Syria
+Individual,RANTISI  Abdel Aziz,,Gaza Strip,,,,undetermined
+Entity,COMITE' DE BIENFAISANCE ET DE SECOURS AUX PALESTINIENS,68 Rue Jules Guesde,Lille 59000,,FR,,France
+Entity,INTERPAL,P.O. Box 3333,London NW6 1RW,,,,United Kingdom
+Entity,PALESTINIAN ASSOCIATION IN AUSTRIA,Novara g 36a/11,Wien 1020,,AT,,Austria
+Entity,SANABIL ASSOCIATION FOR RELIEF AND DEVELOPMENT,,Sidon,,LB,,Lebanon
+Individual,DWIKARNA  Agus,,,,,,
+Individual,JULKIPLI  Salim Y Salamuddin,,,,PH,,Philippines
+Individual,MUNANDAR  Aris,,,,,,
+Individual,MURAD  Abdul Hakim,,,,,,
+Individual,SIREGAR  Parlindungan,,,,,,
+Individual,SYAWAL  Yassin,,,,,,
+Individual,YUNOS  Mukhlis,,,,,,
+Individual,BIN MANSOUR  Amran,,,,,,
+Individual,HIR  Zulkifli Bin Abdul,,,,,,
+Individual,KASMURI  Abdul Manaf,,,,,,
+Individual,MARZUKI  Zulkifli,,,,,,
+Individual,SUFAAT  Yazid,,,,,,
+Individual,WAN MIN  Wan Mat,,,,,,
+Individual,ZAKARIA  Zaini,A-1-8 Pangsapuri Sri Tanjung  Jalan Sky BS2  Bukit Sentosa Rawang,Selangor 48300,,MY,,Malaysia
+Individual,ABU DHESS  Mohamed,Holdenweg 76,Essen 45143,,DE,,Germany
+Individual,AL-DAGMA  Aschraf,Clemens-August Strasse 10  Kolpinghaus,Beckum 59269,,DE,,Germany
+Individual,MOUSTFA  Djamel,,,,DZ,,Algeria
+Individual,SHALABI  Ismail Abdallah Sbaitan,Wilhelm-Strasse 45  59269,Beckum,,DE,,Germany
+Entity,AL-AKHTAR TRUST INTERNATIONAL,ST-1/A  Gulshan-e-Iqbal  Block 2,Karachi 75300,,PK,,Pakistan
+Entity,AL-BAKOUN ALA AL-AHD ORGANIZATION,,,,DZ,,Algeria
+Individual,BELMOKHTAR  Mokhtar,,,,,,
+Entity,DHAMAT HOUMET DAAWA SALAFIA,,,,DZ,,Algeria
+Individual,EL HADI  Mustapha Nasri Ben Abdul Kader Ait,,,,,,
+Individual,LOUNICI  Djamel,,,,,,
+Individual,BEN ABDELHAKIM  Cherif Said,Corso Lodi 59,Milan,,IT,,Italy
+Individual,BOUYAHIA  Hamadi Ben Abdul Aziz Ben Ali,Corso XXII Marzo 39,Milan,,IT,,Italy
+Individual,CABDULLAAH  Ciise Maxamed,Mosque in Via Quaranta,Milan,,IT,,Italy
+Individual,DRISSI  Noureddine Ben Ali Ben Belkassem,Via Plebiscito 3,Cremona,,IT,,Italy
+Individual,EL AYASHI  Radi Abd El Samie Abou El Yazid,Via Cilea 40,Milan,,IT,,Italy
+Individual,HAMMID  Mohammed Tahir,Via della Martinella 132,Parma,,IT,,Italy
+Individual,HAMRAOUI  Kamel Ben Mouldi Ben Hassan,Via Bertesi 27,Cremona,,IT,,Italy
+Individual,MOSTAFA  Mohamed Amin,Via della Martinella 132,Parma,,IT,,Italy
+Individual,RIHANI  Lotfi Ben Abdul Hamid Ben Ali,Via Bolgeri 4,Barni  Como,,IT,,Italy
+Individual,ROUINE  Lazher Ben Khalifa Ben Ahmed,Vicolo San Giovanni,Rimini,,IT,,Italy
+Individual,SALEH AL-SAADI  Nassim Ben Mohamed Al-Cherif ben Mohamed,Via Monte Grappa 15,Arluno  Milan,,IT,,Italy
+Individual,TRABELSI  Mourad,Via Geromini 15,Cremona,,IT,,Italy
+Individual,ZARKAOUI  Imed Ben Mekki Ben Al-Akhdar,Via Col. Aprosio 588,Vallecrosia  IM,,IT,,Italy
+Individual,AMMARI  Saifi,,,,,,
+Individual,DURGUTI  Safet,,,,,,
+Individual,ABO GHAITH  Sulaiman Jassem,,,,,,
+Entity,AL-HARAMAIN : PAKISTAN BRANCH,House #279  Nazimuddin road  F-10/1,Islamabad,,PK,,Pakistan
+Entity,AL-HARAMAIN : INDONESIA BRANCH,Jalan Laut Sulawesi Blok DII/4  Kavling Angkatan Laut Duren Sawit,Jakarta Timur 13440,,ID,,Indonesia
+Entity,AL-HARAMAIN : KENYA BRANCH,,Nairobi,,KE,,Kenya
+Entity,AL-HARAMAIN : TANZANIA BRANCH,PO Box 3616,Dar es Salaam,,,,Tanzania
+Individual,BASEVIC  Dragan,,,,,,
+Individual,BOROVCANIN  Veljko,,,,,,
+Individual,DJORDA  Samojko,,,,,,
+Individual,ECIM  Ljuban,,,,,,
+Individual,JAKUPI  Avdyl,,,,,,
+Individual,KOJIC  Radomir,,,,,,
+Individual,KOVAC  Tomislav,,,,,,
+Individual,KUJUNDZIC  Predrag,,,,,,
+Individual,MARIJANOVIC  Milovan,,,,,,
+Individual,SARAC  Ivan,,,,,,
+Individual,SHAQIRI  Xhezair,,,,,,
+Individual,THACI  Menduh,,,,,,
+Entity,2904977 CANADA  INC.,818 rue Sherbrooke East,Montreal  Quebec H2L 1K3,,CA,,Canada
+Entity,CORPORACION CIMEX S.A.,Edificio Sierra Maestra  Avenida Primera entre 0 y 2  Miramar Playa,Ciudad de la Habana,,CU,,Cuba
+Entity,CUBANACAN GROUP,Calle 68 e/5ta A  Apartado 16046,Ciudad de La Habana,,CU,,Cuba
+Entity,CUBANACAN INTERNATIONAL B.V,Visseringlaan 24  2288 ER Rijswijk,Zevenhuizen,,,,Netherlands
+Entity,CUBANACAN U.K. LIMITED,Unit 49 Skylines Village  Limeharbour,Docklands,,,,United Kingdom
+Entity,HAVANATUR S.A.,Gerardo Medina No. 633  e/Avenue Borregos y Carretera de Vinales,Pinar del Rio,,CU,,Cuba
+Entity,HAVANATUR BAHAMAS LTD.,East Bay Street,Nassau,,,,Bahamas  The
+Entity,HAVANATUR CHILE S.A.,Avenue 11 de Septiembre 2155  Edificio Panoramico  Torre C  Oficina 805  Providencia,Santiago,,CL,,Chile
+Entity,LA COMPANIA TIENDAS UNIVERSO S.A.,,,,,,
+Entity,FUNDACION PARA LA PAZ DE CORDOBA,Carrera 6 No. 29-12  Monteria,Cordoba,,CO,,Colombia
+Individual,ARROYAVE RUIZ  Elkin Alberto,Carrera 9 No. 71D-10,Cali,,CO,,Colombia
+Individual,ATENCIA PITALUA  Rafael Dario,c/o FUNDACION PARA LA PAZ DE CORDOBA,Monteria  Cordoba,,CO,,Colombia
+Individual,BLANCO PUERTA  Edgar Fernando,,,,,,
+Individual,BUITRAGO PARADA  Hector German,,,,,,
+Individual,CASTANO GIL  Carlos,,,,,,
+Individual,CASTANO GIL  Jose Vicente,,,,,,
+Individual,CASTELLANOS GARZON  Henry,,,,,,Venezuela
+Individual,CIFUENTES GALINDO  Luis Eduardo,,,,,,
+Individual,DUQUE GAVIRIA  Ivan Roberto,,,,,,
+Individual,GIRALDO SERNA  Hernan,,,,,,
+Individual,GOMEZ ALVAREZ  Sor Teresa,,,,,,
+Individual,ISAZA ARANGO  Ramon Maria,,,,,,
+Individual,MANCUSO GOMEZ  Salvatore,Calle 64 No. 8A-56,Monteria  Cordoba,,CO,,Colombia
+Individual,MARIN ARANGO  Luciano,,Apure,,,,Venezuela
+Individual,MURILLO BEJARANO  Diego Fernando,,,,,,
+Individual,AL-ZINDANI  Shaykh Abd-al-Majid,,,,,,
+Individual,ABD AL-GHAFAR  Sundus,,,,IQ,,Iraq
+Individual,AL-DURI  Jawhar Majid,,,,IQ,,Iraq
+Individual,AL-RABI'I  Nidal,,,,IQ,,Iraq
+Individual,AL-TIKRITI  Ali Barzan Ibrahim Hasan,,Geneva,,CH,,Switzerland
+Individual,AL-TIKRITI  Ali Saddam Hussein,,,,,,
+Individual,AL-TIKRITI  Hala Saddam Hussein,,,,,,
+Individual,AL-TIKRITI  Khawla Barzan Ibrahim Hasan,,Geneva,,CH,,Switzerland
+Individual,AL-TIKRITI  Mohammad Barzan Ibrahim Hasan,,Geneva,,CH,,Switzerland
+Individual,AL-TIKRITI  Noor Barzan Ibrahim Hasan,,Geneva,,CH,,Switzerland
+Individual,AL-TIKRITI  Raghad Saddam Hussein,,Amman,,JO,,Jordan
+Individual,AL-TIKRITI  Rana Saddam Hussein,,Amman,,JO,,Jordan
+Individual,AL-TIKRITI  Saja Barzan Ibrahim Hasan,,Geneva,,CH,,Switzerland
+Individual,AL-TIKRITI  Thoraya Barzan Ibrahim Hasan,,,,IQ,,Iraq
+Individual,AL-UBAYDI  Intissar,,,,IQ,,Iraq
+Individual,SHAHBANDAR  Samira,,,,,,
+Individual,TILFAH  Sajida Khayrallah,,,,,,
+Entity,HOLA SUN HOLIDAYS LIMITED,146 Beaver Creek Road,Richmond Hill  Ontario L4B 1C2,,CA,,Canada
+Individual,DERAMCHI  Othman,Via Milanese  5  20099 Sesto San Giovanni,Milan,,IT,,Italy
+Individual,BENDEBKA  L'Hadi,Via Garibaldi  70  San Zenone al Po,Pavia,,IT,,Italy
+Individual,AHMED NACER  Yacine,Rue Mohamed Khemisti  6,Annaba,,DZ,,Algeria
+Individual,KIFANE  Abderrahmane,Via S. Biagio  32  Sant'Anastasia,Naples,,IT,,Italy
+Individual,EL HEIT  Ali,Via D. Fringuello  20,Rome,,IT,,Italy
+Individual,HADDAD  Fethi Ben Assen Ben Salem,Via Fulvio Testi  184  Cinisello Balsamo,Milan,,IT,,Italy
+Individual,ABBES  Moustafa,Via Padova  82,Milan,,IT,,Italy
+Individual,ABBES  Youcef,Via Padova 82,Milan,,IT,,Italy
+Entity,AL WASEL AND BABEL GENERAL TRADING LLC,Ibrahim Saeed Lootah Building  Al Ramool Street  P.O. Box 10631 & 638  Rashidya,Dubai,,AE,,United Arab Emirates
+Entity,AL-BASHAIR TRADING COMPANY  LTD,Sadoon St  Al-Ani Building  First Floor,Baghdad,,IQ,,Iraq
+Entity,AL-HUDA STATE COMPANY FOR RELIGIOUS TOURISM,,,,IQ,,Iraq
+Entity,AVIATRANS ANSTALT,,Ruggell,,LI,,Liechtenstein
+Entity,LOGARCHEO S.A.,Chemin du Carmel,1661 Le Paquier-Montbarry,,CH,,Switzerland
+Individual,AHMED  Adnan S. Hasan,,Amman,,JO,,Jordan
+Individual,AL OBAIDI  Tarik Nasser S.,,Baghdad,,IQ,,Iraq
+Individual,AL-QUBAYSI  Munir,,,,,,Syria
+Individual,BAHNAM  Hikmat Jarjes,,Baghdad,,IQ,,Iraq
+Individual,ALLANE  Hacene,,,,,,
+Individual,DJERMANE  Kamel,,,,,,
+Individual,EL-AICH  Dhou,,,,,,
+Individual,ZERFAOUI  Ahmad,,,,,,
+Entity,AL-HARAMAIN & AL MASJED AL-AQSA CHARITY FOUNDATION : BOSNIA BRANCH,Hasiba Brankovica No. 2A,Sarajevo,,BA,,Bosnia and Herzegovina
+Entity,TAIBAH INTERNATIONAL : BOSNIA BRANCH,Avde Smajlovic 6,Sarajevo,,BA,,Bosnia and Herzegovina
+Entity,AL FURQAN,Put Mladih Muslimana 30a,Sarajevo 71 000,,BA,,Bosnia and Herzegovina
+Individual,BURHAN  Dr. Sahir,,,,AE,,United Arab Emirates
+Individual,HAMUDAT  General Maki Mustafa,,Mosul,,IQ,,Iraq
+Individual,SHABAN  Adib,,,,,,
+Individual,SLEWA  Roodi,,,,,,
+Individual,ARELLANO FELIX  Eduardo Ramon,,,,,,
+Individual,ARELLANO FELIX  Francisco Javier,,,,,,
+Entity,ARELLANO FELIX ORGANIZATION,,,,MX,,Mexico
+Entity,JUAREZ CARTEL,,,,MX,,Mexico
+Individual,NEMBHARD  Norris,,,,,,
+Individual,NOORZAI  Haji Bashir,,,,,,
+Individual,RAMCHARAN  Leebert,,,,,,
+Individual,ZEVALLOS GONZALES  Fernando Melciades,,,,,,
+Entity,AERO CONTINENTE S.A,Jr. Francisco Bolognesi 125  Piso 16  Miraflores,Lima 18,,PE,,Peru
+Entity,AVIANDINA S.A.C.,Avenida Jose Pardo 601,Lima,,PE,,Peru
+Entity,IAC INTERNATIONAL INC.,,Miami  FL,,,,United States
+Individual,MEJIA MAGNANI  John Yvan,c/o AERO CONTINENTE S.A.,Lima,,PE,,Peru
+Entity,SISTEMA DE DISTRIBUCION MUNDIAL  S.A.C.,Avenida Jose Pardo No. 601  Piso 11,Lima,,PE,,Peru
+Individual,ZEVALLOS GONZALES  Lupe Maritza,c/o AERO CONTINENTE S.A.,Lima,,PE,,Peru
+Individual,ZEVALLOS GONZALES  Milagros Angelina,c/o AERO CONTINENTE S.A.,Lima,,PE,,Peru
+Individual,ZEVALLOS GONZALES  Winston Ricardo,c/o AERO CONTINENTE S.A.,Lima,,PE,,Peru
+Entity,AERO CONTINENTE (USA) INC.,,Miami  FL,,,,United States
+Entity,CARGO AIRCRAFT LEASING CORP.,,Ft. Lauderdale  FL,,,,United States
+Entity,INTERNATIONAL PACIFIC TRADING  INC.,,Miami  FL,,,,United States
+Entity,AL-HARAMAIN : AFGHANISTAN BRANCH,,,,AF,,Afghanistan
+Entity,AL-HARAMAIN : ALBANIA BRANCH,Ifran Tomini street  #58,Tirana,,AL,,Albania
+Entity,AL-HARAMAIN : BANGLADESH BRANCH,House 1  Road 1  S-6  Uttara,Dhaka,,BD,,Bangladesh
+Entity,AL-HARAMAIN : ETHIOPIA BRANCH,Woreda District 24 Kebele Section 13,Addis Ababa,,ET,,Ethiopia
+Entity,AL-HARAMAIN : THE NETHERLANDS BRANCH,Jan Hanzenstraat 114  1053SV,Amsterdam,,,,Netherlands
+Individual,AL-AQIL  Aqeel Abdulaziz Aqeeil,,,,,,
+Individual,AL-TURKI  Hassan Abdullah Hersi,,,,,,
+Individual,BARAKAT  Assad Ahmad,Rue Taroba 1005  Beatriz Menez Building,Foz do Iguacu,,BR,,Brazil
+Entity,CASA APOLLO,Galeria Page,Ciudad del Este,,PY,,Paraguay
+Entity,BARAKAT IMPORT EXPORT LTDA,,Iquique,,CL,,Chile
+Individual,DARRAJI  Kamel,via Belotti  n. 16,Busto Arsizio  Varese,,IT,,Italy
+Individual,JAMMALI  Imed Ben Bechir Ben Hamda,via Dubini  n. 3,Gallarate   Varese,,IT,,Italy
+Individual,LOUBIRI  Habib Ben Ahmed,via Brughiera  n. 5,Castronno  Varese,,IT,,Italy
+Individual,TRABELSI  Chabaane Ben Mohamed,via Cuasso  n. 2,Porto Ceresio  Varese,,IT,,Italy
+Individual,KRUNIC  Savo,,Sokolac,,BA,,Bosnia and Herzegovina
+Individual,PEJCIC  Mile,,,,,,
+Individual,PETRIC  Zoran,,,,,,
+Individual,BOUT  Viktor Anatolijevitch,,,,,,
+Individual,RUPRAH  Sanjivan Singh,,,,,,
+Entity,A.W.A. ENGINEERING LIMITED,3 Mandeville Place,London,,,,United Kingdom
+Individual,ABBAS  Abdul Hussein,,,,IT,,Italy
+Entity,ADMINCHECK LIMITED,1 Old Burlington Street,London,,,,United Kingdom
+Entity,ADVANCED ELECTRONICS DEVELOPMENT  LTD,3 Mandeville Place,London,,,,United Kingdom
+Individual,AHMAD  Rasem,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,AHMAD  Wallid Issa,,,,IQ,,Iraq
+Individual,AL-AMIRI  Adnan Talib Hassim,43 Palace Mansions  Hammersmith,London,,,,United Kingdom
+Entity,AL-ARABI TRADING COMPANY LIMITED,Lane 11  Hai Babil,Baghdad District 929,,IQ,,Iraq
+Individual,AL-ATRUSH  Abd al-Wahhab Umar Mirza,,,,,,
+Individual,AL-AZAWI  Dafir,,,,IQ,,Iraq
+Individual,AL-BAZZAZ  Hikmet Abdallah,,,,IQ,,Iraq
+Individual,AL-DAJANI  Leila N.S.,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,AL-DAJANI  Nadim S.,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,AL-DAJANI  Sa'ad,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,AL-HAMMADI  Hamid Yusif,,,,IQ,,Iraq
+Individual,AL-HUWAYSH  Isam Rashid,,,,IQ,,Iraq
+Individual,AL-JABBURI  Sadi Tuma Abbas,,,,IQ,,Iraq
+Individual,AL-KHODAIR  Ahmad Hussein,,,,,,
+Individual,AL-MAJID  Hussein Kamel Hassan,,Baghdad,,IQ,,Iraq
+Individual,AL-MALIKI  Shabib Lazem,,,,IQ,,Iraq
+Individual,AL-QASIR  Nazar Jumah Ali,,,,IQ,,Iraq
+Individual,AL-RIDA  Karim Hasan,,,,IQ,,Iraq
+Individual,AL-RUBA  Dr. Khadim,,,,IQ,,Iraq
+Individual,AL-SAHHAF  Muhammad Said Kazim,,,,IQ,,Iraq
+Individual,AL-ZIBARI  Arshad Muhammad Ahmad Muhammad,,,,IQ,,Iraq
+Individual,ALAWI  Abdel-Salam Abdel-Rahman,,,,IQ,,Iraq
+Individual,ALWAN  Allaidin Hussain,,Baghdad,,IQ,,Iraq
+Entity,AMD CO. LTD AGENCY,Al-Tahrir Car Parking Building  Tahrir Sq.  Floor 3  Office 33  P.O. Box 8044,Baghdad,,IQ,,Iraq
+Entity,ARAB PETROLEUM ENGINEERING COMPANY LTD,,Amman,,JO,,Jordan
+Entity,ARAB PROJECTS COMPANY S.A. LTD.,P.O. Box 1318,Amman,,JO,,Jordan
+Entity,ARCHI CENTRE I.C.E. LIMITED,3 Mandeville Place,London,,,,United Kingdom
+Entity,ARCHICONSULT LIMITED,128 Buckingham Place,London 5,,,,United Kingdom
+Entity,ASSOCIATED ENGINEERS,,,,,,United Kingdom
+Individual,ATIA  Hachim K.,2 Stratford Place,London W1N 9AE,,,,United Kingdom
+Entity,ATLAS AIR CONDITIONING COMPANY LIMITED,55 Roebuck House  Palace Street,London,,,,United Kingdom
+Entity,ATLAS EQUIPMENT COMPANY LIMITED,55 Roebuck House  Palace Street,London,,,,United Kingdom
+Entity,BAROON SHIPPING COMPANY LIMITED,Haven Court  5 Library Ramp,Gibraltar,,,,United Kingdom
+Individual,DAGHIR  Ali Ashour,2 Western Road  Western Green  Thames Ditton,Surrey,,,,United Kingdom
+Entity,DURAND PROPERTIES LIMITED,Haven Court  5 Library Ramp,Gibraltar,,,,United Kingdom
+Entity,ENDSHIRE EXPORT MARKETING,,,,,,United Kingdom
+Entity,FALCON SYSTEMS,,,,,,United Kingdom
+Individual,FARAJ  Samal Majid,,,,IQ,,Iraq
+Entity,FARTRADE HOLDINGS S.A.,,,,CH,,Switzerland
+Individual,FATTAH  Jum'a Abdul,P.O. Box 1318,Amman,,JO,,Jordan
+Entity,H & H METALFORM GMBH,Postfach 1160  Strontianitstrasse 5,Drensteinfurt 4406,,DE,,Germany
+Individual,HABIB  Mohammed Turki,,Baghdad,,IQ,,Iraq
+Entity,HELFORD DIRECTORS LIMITED,Haven Court  5 Library Ramp,Gibraltar,,,,United Kingdom
+Entity,I.P.C. INTERNATIONAL LIMITED,,,,,,United Kingdom
+Entity,I.P.C. MARKETING LIMITED,,,,,,United Kingdom
+Entity,INVESTACAST PRECISION CASTINGS  LTD.,112 City Road,London,,,,United Kingdom
+Entity,IRAQI ALLIED SERVICES LIMITED,,,,,,United Kingdom
+Entity,IRAQI FREIGHT SERVICES LIMITED,,,,,,United Kingdom
+Entity,IRAQI TRADE CENTER,,Dubai,,AE,,United Arab Emirates
+Entity,JARACO S.A.,45 Route de Frontenex,Geneva CH-1207,,CH,,Switzerland
+Individual,JASIM  Latif Nusayyif,,Baghdad,,IQ,,Iraq
+Individual,JON  Hana Paul,19 Tudor House  Windsor Way  Brook Green,London,,,,United Kingdom
+Individual,JUME'AN  George,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,KARAGHULLY  Labeed A.,,,,IQ,,Iraq
+Entity,KEENCLOUD LIMITED,11 Catherine Place  Westminister,London,,,,United Kingdom
+Individual,KHALIL  Dr. Ahmad Murtada Ahmad,,,,IQ,,Iraq
+Individual,MALIK  Assim Mohammed Rafiq Abdul,14 Almotaz Sad Al Deen Street  Al Nozha,Cairo,,EG,,Egypt
+Entity,MEED INTERNATIONAL LIMITED,3 Mandeville Place,London,,,,United Kingdom
+Individual,MOHAMED  Abdul Kader Ibrahim,Jianguomenwai Diplomatic Housing Compound  Building 7-1  5th Floor  Apartment 4,Beijing,,CN,,China
+Individual,MUBARAK  Umid Medhat,,,,IQ,,Iraq
+Individual,NAMAN  Saalim,P.O. Box 39  Fletchamstead Highway,Coventry,,,,United Kingdom
+Individual,OMRAN  Karim Dhaidas,,,,IQ,,Iraq
+Entity,ORIENT SHIPPING LIMITED,Lot 18  Bay Street,Kingstowne,,VC,,Saint Vincent and the Grenadines
+Entity,PANDORA SHIPPING CO. S.A.,,,,HN,,Honduras
+Entity,PETRA NAVIGATION & INTERNATIONAL TRADING CO. LTD.,Hai Al Wahda Mahalat 906  906 Zulak 50  House 14,Baghdad,,IQ,,Iraq
+Entity,RAJBROOK LIMITED,,,,,,United Kingdom
+Entity,REYNOLDS AND WILSON  LTD.,21 Victoria Road  Surbiton,Surrey KT6 4LK,,,,United Kingdom
+Individual,RZOOKI  Hanna,,,,IQ,,Iraq
+Individual,SALIH  Abd al-Munim Ahmad,,,,IQ,,Iraq
+Entity,T N K FABRICS LIMITED,,,,,,United Kingdom
+Entity,T.E.G. LIMITED,3 Mandeville Place,London,,,,United Kingdom
+Entity,T.M.G. ENGINEERING LIMITED,Castle Row  Horticultural  Place  Chiswick,London,,,,United Kingdom
+Individual,TALL  Aktham,P.O. Box 1318,Amman,,JO,,Jordan
+Entity,TARIQ ABU SHANAB EST. FOR TRADE & COMMERCE,Musherfeh  P.O. Box 766,Zarka,,JO,,Jordan
+Entity,TECHNOLOGY AND DEVELOPMENT GROUP LTD,Centric House 390/391  Strand,London,,,,United Kingdom
+Entity,TIGRIS TRADING  INC.,2 Stratford Place,London W1N 9AE,,,,United Kingdom
+Entity,TRADING & MARITIME INVESTMENTS,,San Lorenzo,,HN,,Honduras
+Entity,U.I. INTERNATIONAL,,,,,,United Kingdom
+Individual,ZAHRAN  Yousuf,P.O. Box 1318,Amman,,JO,,Jordan
+Individual,ZAINAL  Akram,,,,IQ,,Iraq
+Entity,WHALE SHIPPING LTD.,c/o Government of Iraq  State Organization of Ports  Maqal,Basrah,,IQ,,Iraq
+Entity,A.T.E. INTERNATIONAL LTD.,3 Mandeville Place,London,,,,United Kingdom
+Individual,KUNFUTH  Abbas Khalaf,House 21  Lane 17  Subdivision 603  Dragh District,Al-Mansour,,,,
+Individual,AL-TAMIMI  Muhannad Juma Y,,,,,,
+Entity,BLOTO INTERNATIONAL COMPANY,,,,IQ,,Iraq
+Entity,MELFI MARINE CORPORATION S.A.,Calle Oficios No. 410 e/Luz y Acosta  La Habana Vieja,Habana,,CU,,Cuba
+Individual,AL-BUTHE  Soliman,,,,,,
+Entity,AL-HARAMAIN FOUNDATION : COMOROS ISLANDS,B/P: 1652,Moroni,,KM,,Comoros
+Entity,ISLAMIC AFRICAN RELIEF AGENCY,201 E. Cherry Street  Suite D,Columbia  MO 65205,,,,United States
+Individual,SULAIMAN  Mohammed Ibrahim,House Number 27  Block Number 29  Manishia District,Khartoum,,SD,,Sudan
+Individual,MAKKI  Jaffar Ahmad Abdullah,,,,,,
+Individual,ABBAKAR MUHAMAD  Abdul Aziz,,,,,,
+Individual,AL-SUDANI  Khalid Ahmad Jumah,,Amman,,JO,,Jordan
+Individual,BUISIR  Ibrahim,,,,IE,,Ireland
+Individual,HERNANDEZ ZEA  Luis Antonio,Carrera 53 No. 35-35,Bogota,,CO,,Colombia
+Entity,ACCIRENT S.A.,Transversal 9C No. 130C-26 Ofc. 401,Bogota,,CO,,Colombia
+Entity,AEROCOMERCIAL ALAS DE COLOMBIA LTDA.,Avenida El Dorado Entrada 2 Int. 6,Bogota,,CO,,Colombia
+Entity,AEROVIAS ATLANTICO LTDA.,Aeropuerto Int. Ernesto Cortisoz Hangar 1,Barranquilla Atlantico,,CO,,Colombia
+Entity,ASOCIACION TURISTICA INTERNACIONAL S.C.S.,Carrera 35 No. 53-53,Bogota,,CO,,Colombia
+Entity,CIA. CONSTRUCTORA Y COMERCIALIZADORA DEL SUR LTDA.,Avenida El Dorado Entrada 2 Int. 6,Bogota,,CO,,Colombia
+Entity,DESARROLLOS AGROINDUSTRIALES S.A.,Tranversal 13A No. 118A-45 Ofc. 301,Bogota,,CO,,Colombia
+Entity,GREEN ISLAND S.A.,Avenida El Dorado Entrada 2 Int. 6,Bogota,,CO,,Colombia
+Entity,INTERCONTINENTAL DE FINANCIACION AEREA  S.A.,Avenida El Dorado Entrada 2 Int. 6,Bogota,,CO,,Colombia
+Entity,INVERSIONES Y COMERCIALIZADORA INCOM LTDA.,Calle 12 No. 4-63,Cali,,CO,,Colombia
+Entity,LARGO LEASING LTD.,c/o T.R.C. Corporate Services Limited P.O. Box 1982,George Town,,KY,,Cayman Islands
+Entity,TRANS PACIFIC WORLD LEASING LIMITED,First Floor International Building  Kumul Highway,Port Vila,,VU,,Vanuatu
+Individual,VELEZ RENGIFO  Piedad,Carrera 15 No. 127A-33 Apt. 605,Bogota,,CO,,Colombia
+Individual,ARCE JARAMILLO  Melba Rosa,Calle Culiacan 101 Int. 702 Col. La Condesa,Mexico City,,MX,,Mexico
+Entity,ISLAMIC STATE OF IRAQ AND THE LEVANT,,,,,,
+Entity,SERCUBA,Gral. Gomez #105 e/ Maceo e Independencia,Camaguey,,CU,,Cuba
+Individual,LABRA AVILES  Jesus Abraham,,,,,,
+Individual,HIGUERA GUERRERO  Gilberto,,,,,,
+Individual,PEREZ PASUENGO  Efrain,,,,,,
+Individual,AURELIANO FELIX  Jorge,,,,,,
+Individual,YANEZ GUERRERO  Rigoberto,,,,,,
+Individual,MARTINEZ DUARTE  Armando,,,,,,
+Individual,JANJALANI  Khadafi Abubakar,,,,,,
+Individual,AL-FAQIH  Saad Rashed Mohammad,,London,,,,United Kingdom
+Individual,BATARJEE  Adel Abdul Jalil Ibrahim,2 Helmi Kutbi Street,Jeddah,,SA,,Saudi Arabia
+Entity,SERB DEMOCRATIC PARTY,Kralja Alfonsa XIII  Number 1,Banja Luka 78000,,BA,,Bosnia and Herzegovina
+Entity,ZDRAVO,12 Pop Lukina,Belgrade,,RS,,Serbia
+Entity,KOMOTKO,12 Pop Lukina,Belgrade,,RS,,Serbia
+Individual,BRALO  Miroslav,,,,,,
+Individual,DJORDJEVIC  Vlastimir,,,,,,
+Individual,LAZAREVIC  Vladimir,,,,,,
+Individual,LUKIC  Sreten,,,,,,
+Entity,MOVEMENT FOR ISLAMIC REFORM IN ARABIA,BM Box: MIRA,London WC1N 3XX,,,,United Kingdom
+Individual,AL-FADHLI  Muhsin,Block Four  Street 13  House # 179,Kuwait City  Al-Riqqa area,,KW,,Kuwait
+Entity,RAMCHARAN LTD,Rosehall Main Road,Rosehall,,JM,,Jamaica
+Entity,RAMCHARAN BROTHERS LTD,Rosehall Main Road,Rosehall,,JM,,Jamaica
+Entity,CARIBBEAN SHOWPLACE LTD,Tropigala Night Club  Ironshore,Montego Bay,,JM,,Jamaica
+Entity,CARIBBEAN BEACH PARK,1137 Sugar Mill Road,Montego Bay,,JM,,Jamaica
+Individual,MOHAMMAD  Haji Baz,,,,,,
+Individual,SHALISH  Zuhayr,,Damascus,,,,Syria
+Individual,SHALISH  Asif,Damascus,,,,,Syria
+Entity,SES INTERNATIONAL CORP,Harasta Homs Highway  PO Box 241,Damascus,,,,Syria
+Individual,AHMAD  Muhammad Yunis,Al-Dawar Street,Bludan,,,,Syria
+Individual,AL-HIYARI  Bilal Mansur,,Suwaylah,,JO,,Jordan
+Individual,RUSDAN  Abu,,,,,,
+Individual,SUMARSONO  Aris,,Jakarta,,ID,,Indonesia
+Individual,AL-TIKRITI  Yasir Sabawi Ibrahim Hasan,,Mosul,,IQ,,Iraq
+Individual,AL-TIKRITI  Omar Sabawi Ibrahim Hasan,,Damascus,,,,Syria
+Individual,AL-TIKRITI  Ayman Sabawi Ibrahim Hasan,,Bludan,,,,Syria
+Individual,AL-TIKRITI  Ibrahim Sabawi Ibrahim Hasan,,,,IQ,,Iraq
+Entity,ELEHSSAN,AL-MUZANNAR ST  AL-NASIR AREA,Gaza City  Gaza,,,,Palestinian
+Entity,ISLAMIC JIHAD GROUP,,,,,,
+Individual,CORONEL VILLAREAL  Ignacio,,Manzanillo  Colima,,MX,,Mexico
+Entity,ARRIOLA MARQUEZ ORGANIZATION,,,,MX,,Mexico
+Individual,ARRIOLA MARQUEZ  Miguel Angel,Calle Mina No. 15,Saucillo  Chihuahua,,MX,,Mexico
+Individual,ARRIOLA MARQUEZ  Oscar Arturo,Avenida Sexta No. 68,Saucillo  Chihuahua,,MX,,Mexico
+Individual,WONG  Moon Chi,,Hong Kong,,CN,,China
+Individual,GAXIOLA MEDINA  Rigoberto,Calle Clavel No. 1406  Colonia Margarita,Culiacan  Sinaloa,,MX,,Mexico
+Individual,DIODATO DEL GALLO  Marco Marino,,,,,,Bolivia
+Entity,KOREA MINING DEVELOPMENT TRADING CORPORATION,Central District,Pyongyang,,,,Korea  North
+Entity,TANCHON COMMERCIAL BANK,Saemul 1-Dong Pyongchon District,Pyongyang,,,,Korea  North
+Entity,KOREA RYONBONG GENERAL CORPORATION,Pot'onggang District,Pyongyang,,,,Korea  North
+Entity,AEROSPACE INDUSTRIES ORGANIZATION,Langare Street  Nobonyad Square,Tehran,,,,Iran
+Entity,SHAHID HEMMAT INDUSTRIAL GROUP,Damavand Tehran Highway,Tehran,,,,Iran
+Entity,SHAHID BAKERI INDUSTRIAL GROUP,,Tehran,,,,Iran
+Entity,SCIENTIFIC STUDIES AND RESEARCH CENTER,P.O. Box 4470,Damascus,,,,Syria
+Individual,AL-TIKRITI  Bashar Sabawi Ibrahim Hasan,Fuad Dawod Farm  Az Zabadani,Damascus,,,,Syria
+Individual,AL-TIKRITI  Sa'd Sabawi Ibrahim Hasan,Al-Shahid Street  Al-Mahata Neighborhood,Az Zabadani,,,,Syria
+Individual,EL BOUHALI  Ahmed,vicolo S. Rocco  n. 10 - Casalbuttano,Cremona,,IT,,Italy
+Individual,BOUGHANEMI  Faycal,viale Cambonino  5/B,Cremona,,IT,,Italy
+Individual,LAAGOUB  Abdelkader,via Europa  4 - Paderno Ponchielli,Cremona,,IT,,Italy
+Entity,SERVICIOS ADMINISTRATIVOS Y DE ORGANIZACION  S.C.,,Tijuana  Baja California,,MX,,Mexico
+Entity,KONTROLES ELECTRONICOS DE BAJA CALIFORNIA  S.A. DE C.V.,Ave. Azueta 11750  Col. Libertad,Tijuana  Baja California CP 22400,,MX,,Mexico
+Entity,COMERCIALIZADORA AMIA  S.A. DE C.V.,Avenida Juan Sarabia  Calle 8106  Zona Central,Tijuana  Baja California CP 22000,,MX,,Mexico
+Individual,MELGOZA TORRES  Martin,Paseo Coronado No. 964  Fraccionamiento El Mirador,Tijuana  Baja California,,MX,,Mexico
+Individual,ALTAMIRANO LOPEZ  Hector,Ave. De los Angeles #5183-4  Fracc. Las Palmas,Tijuana  Baja California,,MX,,Mexico
+Individual,SOTO GIL  Yolanda Esthela,Padre Mayorga No. 106  Fraccionamiento Las Californias,Tijuana  Baja California,,MX,,Mexico
+Individual,MARTINEZ CASAS  Carlos Mario,c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.,Saucillo,,MX,,Mexico
+Individual,TAPIA ORTEGA  Abigail,c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.,Saucillo,,MX,,Mexico
+Individual,LOPEZ POBLANO  Beatriz Raquel,c/o CHIHUAHUA FOODS S.A. DE C.V.,Cuauhtemoc,,MX,,Mexico
+Individual,CARRERA YLLADES  Marisela,c/o CAMBIOS PALMILLA S.A. DE C.V.,Hidalgo del Parral,,MX,,Mexico
+Individual,PEREZ CASTANO  Mario Alberto,c/o CAMBIOS PALMILLA S.A. DE C.V.,Hidalgo del Parral,,MX,,Mexico
+Individual,HERNANDEZ MORENO  Arturo,c/o DEL NORTES CARNES FINAS SAN IGNACIO S.A. DE C.V.,Chihuahua,,MX,,Mexico
+Individual,ARRIOLA MARQUEZ  Edgar Fernando,c/o AUTO EXPRESS DORADOS S.A. DE C.V.,Saucillo,,MX,,Mexico
+Individual,ARRIOLA MARQUEZ  Luis Raul,c/o AUTO EXPRESS DORADOS S.A. DE C.V.,Saucillo,,MX,,Mexico
+Entity,INDIO VITORIO S. DE P.R. DE R.L. DE C.V.,,Saucillo  Chihuahua,,MX,,Mexico
+Entity,CHIHUAHUA FOODS S.A. DE C.V.,,Cuauhtemoc  Chihuahua,,MX,,Mexico
+Entity,CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.,Domicilio en Ejido Ancon de Carros,Saucillo  Chihuahua,,MX,,Mexico
+Entity,CAMBIOS PALMILLA S.A. DE C.V.,Calle Francisco Moreno S/N,Hidalgo del Parral  Chihuahua 33800,,MX,,Mexico
+Entity,GASOLINERAS SAN FERNANDO S.A. DE C.V.,Avenida 3A y Calle Mina  Colonia Centro,Saucillo  Chihuahua,,MX,,Mexico
+Entity,INMOBILIARIA EL PRESON S.A. DE C.V.,,Chihuahua  Chihuahua,,MX,,Mexico
+Entity,INMOBILIARIA EL ESCORPION DEL NORTE S.A. DE C.V.,,Chihuahua  Chihuahua,,MX,,Mexico
+Entity,DEL NORTES CARNES FINAS SAN IGNACIO S.A. DE C.V.,,Chihuahua  Chihuahua,,MX,,Mexico
+Entity,AUTO EXPRESS DORADOS S.A. DE C.V.,Panamericana 110 Colonia Altavista,Saucillo  Chihuahua C.P. 33620,,MX,,Mexico
+Individual,LICON MUNOZ  Jorge Arturo,,,,MX,,Mexico
+Individual,CARRASCO MIRANDA  Willebaldo,c/o CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.,Saucillo  Chihuahua,,MX,,Mexico
+Individual,ARREOLA GOMEZ  Guadalupe Armando,,,,MX,,Mexico
+Individual,ARRIOLA LUNA  Paola,,,,MX,,Mexico
+Individual,MATANGA  Tandabantu Godwin,,Harare,,ZW,,Zimbabwe
+Individual,SALEH  Dr. Abdul Latif,,,,AE,,United Arab Emirates
+Individual,AL-SIBA'I  Hani Muhammad Yusuf,,,,,,United Kingdom
+Individual,AHMAD  Zaki Izzat Zaki,,,,,,
+Individual,ABD AL-RAHMAN  Abdullah Muhammad Rajab,,,,,,
+Individual,AL-ISLAMBULI  Muhammad Ahmad Shawqi,,,,,,
+Individual,MUSTAFA BAKRI  Ali Sa'd Muhammad,,,,,,
+Entity,HESONG TRADING CORPORATION,,Pyongyang,,,,Korea  North
+Entity,TOSONG TECHNOLOGY TRADING CORPORATION,,Pyongyang,,,,Korea  North
+Entity,KOREA COMPLEX EQUIPMENT IMPORT CORPORATION,Rakwon-dong  Pothonggang District,Pyongyang,,,,Korea  North
+Entity,KOREA KWANGSONG TRADING CORPORATION,Rakwon-dong  Pothonggang District,Pyongyang,,,,Korea  North
+Entity,KOREA PUGANG TRADING CORPORATION,Rakwon-dong  Pothonggang District,Pyongyang,,,,Korea  North
+Entity,KOREA RYONGWANG TRADING CORPORATION,Rakwon-dong  Pothonggang District,Pyongyang,,,,Korea  North
+Entity,KOREA INTERNATIONAL CHEMICAL JOINT VENTURE COMPANY,,Hamhung  South Hamgyong Province,,,,Korea  North
+Entity,KOREA RYONHA MACHINERY JOINT VENTURE CORPORATION,Mangungdae-gu,Pyongyang,,,,Korea  North
+Individual,UDOMDET  Ronnayut,c/o SIAM NICE COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,CHARIAPAPORN  Hiran,c/o A-TEAM CHEMICALS COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,JUNTARAPRAPORN  Aping,c/o BANGKOK ARTI-FLORA DESIGN LIMITED PARTNERSHIP,Bangkok,,TH,,Thailand
+Individual,PHUANGPHET  Suwit,c/o PROGRESS SURAWEE COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,JANPRAPAPORN  Arin,c/o BANGKOK ARTI-FLORA DESIGN LIMITED PARTNERSHIP,Bangkok,,TH,,Thailand
+Individual,KRADUMPORN  Somboon,c/o HATKAEW COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,KRADUMPORN  Varee,c/o HATKAEW COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,CHAIWORASIN  Wimonsi,c/o A-TEAM CHEMICALS COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,CHAIWORASIN  Wilai,c/o HATKAEW COMPANY LTD.,Bangkok,,TH,,Thailand
+Individual,PICHAYOS  Winai,c/o BANGKOK ARTI-FLORA DESIGN LIMITED PARTNERSHIP,Bangkok,,TH,,Thailand
+Individual,CHAIJAMROONPHAN  Warin,c/o HATKAEW COMPANY LTD.,Bangkok,,TH,,Thailand
+Entity,NICE FANTASY GARMENT COMPANY LTD.,391/6 - 391/9 Soi Santi Thetsaban  Ratchada Phisek Road  Lat Yao precinct  Chatuchak district,Bangkok,,TH,,Thailand
+Entity,V.R. FRUIT COMPANY,125 Mu 2  Tambon Mae Kha  Hang Dong district,Chiang Mai,,TH,,Thailand
+Entity,SIAM NICE COMPANY LTD.,273 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,SCORE COMMERCIAL COMPANY LTD.,273 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,RUNGRIN COMPANY LTD.,275 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,RATTANA VICHAI COMPANY LTD.,339 Soi Lat Phrao 23  Lat Phrao Road  Chatuchak district,Bangkok,,TH,,Thailand
+Entity,PROGRESS SURAWEE COMPANY LTD.,275 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,PLUS TECH AUTO SUPPLY COMPANY LTD.,273 Thiam Ruammit Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,PLOYDAENG JEWELRY SHOP,4/1-2 Ratdamri Road  World Trade Center  1st Floor  Room B135  Lumphini precinct  Pathum Wan district,Bangkok,,TH,,Thailand
+Entity,MAESAI K.D.P. COMPANY LTD.,4 Mu 1  Tambon Wiang Phang Kham  Mae Sai district,Chiang Rai,,TH,,Thailand
+Entity,KRADUMPORN IMPORT EXPORT COMPANY LTD.,4 Mu 1  Tambon Wiang Phang Kham  Mae Sai district,Chiang Rai,,TH,,Thailand
+Entity,HATKAEW COMPANY LTD.,275 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,GREEN CAR RENT LIMITED PARTNERSHIP,445/11 Soi Ramkamhaeng  39 Lat Phrao Road  Wang Thong Lang  Bang Kapi district,Bangkok,,TH,,Thailand
+Entity,BANGKOK SILK FLOWER COMPANY LTD.,277-279 Soi Thiam Ruammit  Ratchada Phisek Road  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,BANGKOK ARTI-FLORA DESIGN LIMITED PARTNERSHIP,812/89 Ratchada Phisek Road  Din Daeng precinct  Huai Khwang district,Bangkok,,TH,,Thailand
+Entity,A-TEAM CHEMICALS COMPANY LTD.,95/53 Soi Lasal  Sukhumwit 105 Road  Bang Na  Phra Khanong district,Bangkok,,TH,,Thailand
+Individual,QUINTERO SANCLEMENTE  Ramon Alberto,Carrera 16 No. 3-15,Buga  Valle,,CO,,Colombia
+Entity,AGROPECUARIA PALMA DEL RIO S.A.,Carrera 5 No. 29-32  C.C. La Quinta,Ibague  Tolima,,CO,,Colombia
+Individual,SALI JR.  Jainal Antel,,,,,,
+Individual,SAHIRON  Radulan,,,,,,
+Individual,HAPILON  Isnilon Totoni,,,,,,
+Individual,RASHID  Ata Abdoulaziz,Schmidener Street 98,Stuttgart 70374,,DE,,Germany
+Individual,HUSSEIN  Mazen Ali,Branderstrasse 28,Augsburg 86154,,DE,,Germany
+Individual,AHMAD  Farhad Kanabi,Lochhamer Str. 115,Munich 81477,,DE,,Germany
+Individual,YOUSEF  Rafik Mohamad,Kathe Dorsch Ring 21,Berlin 12353,,DE,,Germany
+Individual,IZZAT  Dieman Abdulkadir,Adolf-Braun Street 6,Nuremberg 90429,,DE,,Germany
+Individual,KHALIL  Ibrahim Mohamed,Refugee shelter Alte Ziegelei,Mainz 55128,,DE,,Germany
+Individual,AL-FAQIH  Abd al-Rahman,,Birmingham,,,,United Kingdom
+Individual,ABD'RABBAH  Ghuma,,Birmingham,,,,United Kingdom
+Individual,KHALED  Abdulbaqi Mohammed,,Birmingham,,,,United Kingdom
+Individual,NASUF  Tahir,,Manchester,,,,United Kingdom
+Individual,BENHAMMEDI  Mohammed,,Midlands,,,,United Kingdom
+Entity,SARA PROPERTIES LIMITED,104 Smithdown Road,Liverpool  Merseyside L7 4JQ,,,,United Kingdom
+Entity,MEADOWBROOK INVESTMENTS LIMITED,44 Upper Belgrave Road,Clifton  Bristol BS8 2XN,,,,United Kingdom
+Entity,OZLAM PROPERTIES LIMITED,88 Smithdown Road,Liverpool L7 4JQ,,,,United Kingdom
+Entity,SANABEL RELIEF AGENCY LIMITED,63 South Road,Sparkbrook  Birmingham B11 1EX,,,,United Kingdom
+Individual,HILAL  Musa,,,,,,
+Entity,AL MANAR TV,Al Manar TV  Abed al Nour Street  Haret Hriek,Beirut,,LB,,Lebanon
+Entity,LEBANESE MEDIA GROUP,Al Manar Building  Ahmad Kassir Street  Haret Hriek  Baabda,,,LB,,Lebanon
+Entity,AL NOUR RADIO,Abed Al Nour Street  PO Box 197/25  Alghobeiri  Haret Hriek,Beirut,,LB,,Lebanon
+Individual,BADRI  Gabril Abdul Kareem,,Darfur,,SD,,Sudan
+Individual,BA'ASYIR  Abu Bakar,,,,,,
+Individual,GUNAWAN  Gun Gun Rusman,,,,,,
+Individual,RIFKI  Taufik,,,,,,
+Individual,ANSHORI  Abdullah,,,,,,
+Entity,KOHAS AG,Route des Arsenaux 15,Fribourg  FR 1700,,CH,,Switzerland
+Individual,STEIGER  Jakob,c/o KOHAS AG,Fribourg  FR,,CH,,Switzerland
+Individual,EL HASSAN  Gaffar Mohmed,,,,,,
+Individual,SHANT  Adam Yacub,,,,,,
+Individual,ZAHHAR  Mahmoud Khaled,,,,,,Region: Gaza
+Individual,HAMMAD  Fathi Ahmad Mohammad,,Jabaliya,,,,Region: Gaza
+Entity,LIMMT ECONOMIC AND TRADE COMPANY  LTD.,2501-2508 Yuexiu Mansion  No. 82 Xinkai Road,Dalian  Liaoning 116011,,CN,,China
+Entity,BEIJING ALITE TECHNOLOGIES CO.  LTD.,12A Beisanhuan Zhong Road  P.O. Box 3042,Beijing,,CN,,China
+Entity,CHINA NATIONAL PRECISION MACHINERY IMPORT/EXPORT CORPORATION,No. 30 Haidian Nanlu,Beijing,,CN,,China
+Individual,NAWAY  Haji Ali,,,,,,Iran
+Entity,AMEZCUA CONTRERAS ORGANIZATION,,,,MX,,Mexico
+Individual,JAMIL GEORGES  Fahd,,Ponta Pora  Mato Grosso do Sul,,BR,,Brazil
+Individual,IBRAHIM  Dawood,617 CP Berar Society  Block 7-8,Karachi,,PK,,Pakistan
+Entity,DAWOOD IBRAHIM ORGANIZATION,,,,IN,,India
+Individual,LUKASHENKA  Alyaksandr Ryhorovich,Official residence of the President of the Republic of Belarus Drozdiy  pr-d Drozdiy  11,Minsk,,BY,,Belarus
+Individual,HALAVANAU  Viktar Hryhoryavich,,,,,,
+Individual,ZIMOUSKY  Aliaksandr Leanidavich,,,,,,
+Entity,SANAM INDUSTRIAL GROUP,Pasdaran Road 15,Tehran,,,,Iran
+Entity,YA MAHDI INDUSTRIES GROUP,PO Box 19395-4731,Tehran,,,,Iran
+Individual,SUKHARENKA  Stiapan Mikalayevich,,,,,,
+Individual,PAULICHENKA  Dzmitry Valeryevich,,,,,,
+Individual,SHEIMAN  Viktar Uladzimiravich,,,,,,
+Individual,YARMOSHINA  Lidziya Mihaulauna,,,,,,
+Individual,PIATKEVICH  Natallia Uladzimirauna,,,,,,
+Individual,LUKASHENKA  Viktar Aliaksandravich,,,,,,
+Individual,NAUMAU  Uladzimir Uladzimiravich,,,,,,
+Individual,AL-MUJIL  Abd Al Hamid Sulaiman Muhammed,,,,,,
+Individual,'ABD AL-RAZZIQ  Abu Sufian al-Salamabi Muhammed Ahmed,,,,,,
+Entity,NETHERLANDS CARIBBEAN BANK N.V.,Kaya WFG (Jombi) Mensing 14  P.O. Box 3895,Willemstad  Curacao,,,,Netherlands Antilles
+Entity,ISLAMIC RESISTANCE SUPPORT ORGANIZATION,,Beirut,,LB,,Lebanon
+Entity,YOUSSER COMPANY FOR FINANCE AND INVESTMENT,,,,LB,,Lebanon
+Entity,BAYT AL-MAL,Harat Hurayk,Beirut,,LB,,Lebanon
+Individual,AL-SHAMI  Husayn,,,,LB,,Lebanon
+Entity,PLAYA MAR S.A. DE C.V.,Paseo De Los Heroes  Colonia Rio Tijuana 2110,Tijuana  Baja California,,MX,,Mexico
+Entity,INMOBILIARIA ESPARTA S.A. DE C.V.,Avenida Negrete 220 Local 2B  Colonia Zona Central,Tijuana  Baja California,,MX,,Mexico
+Entity,INMOBILIARIA LA PROVINCIA S.A. DE C.V.,Cuauhtemoc 6046 3 Libertad,Tijuana  Baja California,,MX,,Mexico
+Entity,INMOBILIARIA ESTADO 29 S.A. DE C.V.,Ocampo 1860 4  Colonia Zona Central,Tijuana  Baja California,,MX,,Mexico
+Entity,INMOBILIARIA TIJUANA COSTA S.A. DE C.V.,Agua Caliente 10440 9  Colonia Aviacion,Tijuana  Baja California,,MX,,Mexico
+Individual,HERNANDEZ SOMERO  Urbano,C. Mision de Mulege 2993  Colonia Zona Urbana Rio Tijuana,Tijuana  Baja California,,MX,,Mexico
+Individual,URIBE URIBE  Miguel Angel,Calle Nevado de Toluca 845,Tijuana  Baja California,,MX,,Mexico
+Individual,JIMENEZ PEREZ  Jose Julian Bruno,Calle Rio Bravo  Colonia Revolucion,Tijuana  Baja California,,MX,,Mexico
+Individual,PELAYO MENDOZA  Franco Arturo,Paseo Playas de Tijuana 317,Tijuana  Baja California,,MX,,Mexico
+Individual,HERNANDEZ ARBOLEDA  Sandra Milena,c/o COMERCIALIZADORA DE CAFE DEL OCCIDENTE CODECAFE LTDA.,Pereira  Risaralda,,CO,,Colombia
+Individual,GOMEZ BUSTAMANTE  Wilmer de Jesus,c/o GAVIOTAS LTDA.,Cartago  Valle,,CO,,Colombia
+Individual,GIRALDO FRANCO  Juan Carlos,Calle 3 Oeste No. 26-12,El Aguila  Valle,,CO,,Colombia
+Individual,ROJAS FRANCO  Jaime,,,,CO,,Colombia
+Individual,CANO ALZATE  Yolanda Sofia,c/o GAVIOTAS LTDA.,,,CO,,Colombia
+Individual,GOMEZ OCAMPO  Davinson,c/o GOMEZ MARIN LTDA.,Ansermanuevo  Valle,,CO,,Colombia
+Individual,PATINO RESTREPO  Carlos Arturo,c/o COMERCIALIZADORA DE CAFE DEL OCCIDENTE CODECAFE LTDA.,Pereira  Risaralda,,CO,,Colombia
+Individual,GOMEZ BUSTAMANTE  Luis Alfonso,c/o GAVIOTAS LTDA.,,,CO,,Colombia
+Individual,RENDON RAMIREZ  Jose Aldemar,Carrera 9 No. 10-07,Cartago  Valle,,CO,,Colombia
+Individual,CANO CORREA  Jhon Eidelber,Carrera 28 No. 7-35,Cali,,CO,,Colombia
+Entity,INVERSIONES MACARNIC PATINO Y CIA S.C.S.,Calle 19 No. 9-50  Ofc. 505,Pereira  Risaralda,,CO,,Colombia
+Entity,COMERCIALIZADORA DE CAFE DEL OCCIDENTE CODECAFE LTDA.,Carrera 8 No. 23-09  Ofc. 903,Pereira  Risaralda,,CO,,Colombia
+Entity,GOMEZ MARIN LTDA.,Km. 2 Via al Amprao,Ansermanuevo  Valle,,CO,,Colombia
+Entity,GAVIOTAS LTDA.,Calle 4A No. 21-34 Circunvalar,Cartago  Valle,,CO,,Colombia
+Entity,CANO AGUDELO S EN C,Finca La Alambra,Alcala  Valle,,CO,,Colombia
+Individual,AHMAD  Najmuddin Faraj,Heimdalsgate 36-V,0578 Oslo,,NO,,Norway
+Individual,AL-ALI  Hamid,,,,,,
+Individual,AL-JALAMAH  Jaber,,,,,,
+Individual,AL-BATHALI  Mubarak Mushakhas Sanad,,,,,,
+Entity,KOREA HYOKSIN TRADING CORPORATION,Rakwon-dong  Pothonggang District,Pyongyang,,,,Korea  North
+Individual,POPOV  Dimitri Igorevich,,,,,,
+Individual,MANDRO  Khawa Panga,,,,,,
+Individual,MPANO  Douglas,,,,,,
+Individual,NKUNDA  Laurent,,,,,,
+Individual,MURWANASHYAKA  Ignace,,,,,,
+Individual,BARAKAT  Hatim Ahmad,,,,,,
+Individual,BARAKAT  Hamzi Ahmad,,,,,,
+Individual,FAYAD  Sobhi Mahmoud,315  Piso 3  Galeria Page,Ciudad del Este,,PY,,Paraguay
+Individual,FAYAD  Saleh Mahmoud,,,,,,
+Entity,CASA HAMZE,Number 313  Fourth Floor  Galeria Page  Regimiento Piribebuy Avenue,Ciudad del Este,,PY,,Paraguay
+Individual,ABDALLAH  Muhammad Yusif,Avenue Presidente Juscelino Kubistcheck 338  Apartment 1802  Center  Foz do Iguacu,,,BR,,Brazil
+Individual,OMAIRI  Farouk,605 Avenida Brasil  Apt No. 48  Foz do Iguacu,,,BR,,Brazil
+Individual,TARABAIN CHAMAS  Mohamad,Avenida Jose Maria De Brito 606  Apartment 51  Foz do Iguacu,,,BR,,Brazil
+Individual,BARAKAT  Mohammad Fayez,,,,,,
+Individual,KAZAN  Ali Muhammad,Avenue Taroba  1005 Edificio Beatriz Mendes  Apt 1704  Foz do Iguacu,,,BR,,Brazil
+Entity,GALERIA PAGE,899 Calle Regimento Pirebebuy  Ciudad del Este,,,PY,,Paraguay
+Entity,JIHAD AL-BINA,,Beirut,,LB,,Lebanon
+Individual,AL GHABRA  Mohammed,,East London,,,,United Kingdom
+Entity,CARGO FREIGHT INTERNATIONAL,P. O. Box 873,Goma,,,,Congo  Democratic Republic of the
+Entity,COMPAGNIE AERIENNE DES GRANDS LACS,Av. President Mobutu,Goma,,,,Congo  Democratic Republic of the
+Entity,GREAT LAKES BUSINESS COMPANY,P. O. Box 315,Goma,,,,Congo  Democratic Republic of the
+Individual,TAHA  Khalil Ibrahim Mohamed Achar Foudail,,,,,,
+Entity,KALAYE ELECTRIC COMPANY,33 Fifteenth (15th) Street  Seyed-Jamal-Eddin-Assad Abadi Avenue,Tehran,,,,Iran
+Entity,HIGHER INSTITUTE OF APPLIED SCIENCE AND TECHNOLOGY,P.O. Box 31983  Barzeh,Damascus,,,,Syria
+Entity,ELECTRONICS INSTITUTE,P.O. Box 4470,Damascus,,,,Syria
+Entity,NATIONAL STANDARDS AND CALIBRATION LABORATORY,P.O. Box 4470,Damascus,,,,Syria
+Individual,DOCKRAT  Farhad Ahmed,386 Swanepoel Street  Erasmia,Pretoria,,ZA,,South Africa
+Individual,DOCKRAT  Junaid Ismail,,Johannesburg,,ZA,,South Africa
+Entity,SNIPER AFRICA,40 Mint Road  Amoka Gardens  Fordsburg,Johannesburg,,ZA,,South Africa
+Individual,MIKLASHEVICH  Petr Petrovich,,,,,,
+Individual,PODOBED  Yury Nikolaevich,,,,,,
+Individual,SLIZHEVSKY  Oleg Leonidovich,,Minsk,,BY,,Belarus
+Individual,RADKOV  Aleksandr Mikhailovich,,,,,,
+Individual,RUSAKEVICH  Vladimir Vasilyevich,,,,,,
+Individual,SIVAKOV  Yury,,,,,,
+Entity,BUTEMBO AIRLINES,,Butembo,,,,Congo  Democratic Republic of the
+Entity,CONGOCOM TRADING HOUSE,,Butembo,,,,Congo  Democratic Republic of the
+Entity,MACHANGA LTD.,,Kampala,,UG,,Uganda
+Entity,UGANDA COMMERCIAL IMPEX,P. O. Box 22709,Kampala,,UG,,Uganda
+Individual,OZIA MAZIO  Dieudonne,,,,,,
+Entity,DEFENSE INDUSTRIES ORGANIZATION,P.O. Box 19585-777  Pasdaran Street  Entrance of Babaie Highway  Permanent Expo of Defence Industries Organization,Tehran,,,,Iran
+Individual,HARUN  Ahmad Muhammed,,,,,,
+Individual,AUF  Awad Ibn,,,,,,
+Entity,CONSTRUCTORA AMERICA S.A.,Carrera 63 No. 17-07,Bogota,,CO,,Colombia
+Entity,INVERSIONES Y REPRESENTACIONES S.A.,Carrera 43A No. 16A Sur - 38  Barrio El Poblado,Medellin,,CO,,Colombia
+Individual,ALVAREZ DEL RIO  Fredy de Jesus,,,,,,
+Individual,LOGAN MOREY  Elvis Angus,,,,,,
+Individual,CASTRO PAEZ  Jhon Paul,c/o CABLES NACIONALES CANAL S.A.,Barranquilla,,CO,,Colombia
+Individual,MUSONI  Straton,,,,,,
+Individual,AL-DIBISKI  Nur Al-Din,,,,,,
+Individual,AZIZAH  Sa'id Yusif Ali Abu,,,,,,
+Individual,AL-SAYYID  'Ali Sulayman Mas'ud 'Abd,,,,,,
+Individual,TORRES FELIX  Javier,Calle Paseo La Cuesta # 1550  Apt 6  Colonia Lomas De Guadalupe,Culiacan Rosales  Sinaloa,,MX,,Mexico
+Individual,ARAUJO LAVEAGA  Carmen Amelia,c/o ESTANCIA INFANTIL NINO FELIZ S.C.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,BUENO GARCIA  Santos,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,ZAMBADA NIEBLA  Modesta,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,ZAMBADA NIEBLA  Monica del Rosario,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,ZAMBADA NIEBLA  Midiam Patricia,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,ZAMBADA NIEBLA  Maria Teresa,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Individual,NIEBLA CORDOZA  Rosario,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Culiacan  Sinaloa,,MX,,Mexico
+Entity,ROSARIO NIEBLA CARDOZA A. EN P.,Avenida Manuel Vallarta 2141  Colonia Centro,Culiacan  Sinaloa 80129,,MX,,Mexico
+Entity,ESTANCIA INFANTIL NINO FELIZ S.C.,Avenida Manuel Vallarta 2141  Colonia Centro,Culiacan  Sinaloa 80129,,MX,,Mexico
+Entity,ESTABLO PUERTO RICO S.A. DE C.V.,Carretera El Salado  Quila KM 4,Culiacan  Sinaloa,,MX,,Mexico
+Entity,JAMARO CONSTRUCTORES S.A. DE C.V.,,Culiacan  Sinaloa,,MX,,Mexico
+Entity,NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,Calle/Boulevard Doctor Mora 1230  Colonia Las Quintas,Culiacan  Sinaloa 80060,,MX,,Mexico
+Entity,BANK SADERAT IRAN,PO Box 15745-631  Bank Saderat Tower  43 Somayeh Avenue,Tehran,,,,Iran
+Entity,AZZA AIR TRANSPORT COMPANY LTD.,German Culture Center  McNimer Street  P. O. Box 11586,Khartoum,,SD,,Sudan
+Entity,FARAYAND TECHNIQUE,End of North Karegar Avenue  Shomali,Tehran,,,,Iran
+Individual,AL-DULAYMI  Hasan Hashim Khalaf,30th Street  Al-Yarmuk Area  Jadat Al-Jaysh District,Damascus,,,,Syria
+Individual,AL-TIKRITI  Ahmed Watban Ibrahim Hasan,Al-Ra'is Building  Mina Street,Tartus  Tartus,,,,Syria
+Individual,AL-AHMAD  Ahmad Muhammad Yunis,Al-Mazzah Al-Jabal District  6 Subdistrict  3 area  Al-Iskan complex  40/2  Fifth Floor,Damascus,,,,Syria
+Individual,AL-AHMAD  Sa'ad Muhammad Yunis,,Damascus,,,,Syria
+Individual,AL-AZAWI  Hatem Hamdan,Diyali  Al-Khalis Sector,,,IQ,,Iraq
+Individual,AL-DURI  Thabet,Karkh District,Baghdad,,IQ,,Iraq
+Individual,AL-RAWI  Fawzi Mutlaq,SYRIAN GOVERNMENT-OWNED APARTMENT  AL-MAZZAH DISTRICT,DAMASCUS,,,,Syria
+Individual,CAZAREZ SALAZAR  Victor Emilio,,,,MX,,Mexico
+Individual,PAREDES CORDOVA  Jorge Mario,Morazan El Progreso,,,GT,,Guatemala
+Individual,KHAN  Shahbaz,,Dubai,,AE,,United Arab Emirates
+Individual,ALIZAI  Haji Azizullah,Musa Qala District,Helmund Province,,AF,,Afghanistan
+Individual,BARTH  Frederik Heinz,Kientzheimer Strasse 1,Schwendi 88477,,DE,,Germany
+Entity,GULF CARTEL,,,,MX,,Mexico
+Entity,FAJR INDUSTRIES GROUP,P.O. Box 1985-777,Tehran,,,,Iran
+Entity,MIZAN MACHINE MANUFACTURING GROUP,P.O. Box 16595-365,Tehran,,,,Iran
+Entity,ISLAMIC REVOLUTIONARY GUARD CORPS,,Tehran,,,,Iran
+Entity,MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS,Ferdowsi Avenue  Sarhang Sakhaei Street,Tehran,,,,Iran
+Individual,SANTANILLA BOTACHE  Miguel,,Caqueta Department,,CO,,Colombia
+Entity,AL-SALAH SOCIETY,P.O. Box 6035  Beshara Street,Deir Al-Balah  Gaza,,,,Palestinian
+Individual,AL-KURD  Ahmad Harb,,Deir Al-Balah  Gaza,,,,Palestinian
+Entity,MARTYRS FOUNDATION,P.O. Box 15815-1394,Tehran 15900,,,,Iran
+Entity,MARTYRS FOUNDATION IN LEBANON,P.O. Box 110 24  Bir al-Abed,Beirut,,LB,,Lebanon
+Entity,PALESTINIAN MARTYRS FOUNDATION,,,,LB,,Lebanon
+Entity,GOODWILL CHARITABLE ORGANIZATION  INC.,13106 Warren Ave. Suite #4,Dearborn  MI 48126,,,,United States
+Individual,ALIQ  Qasim,,,,,,
+Individual,AL-SHAMI  Ahmad,,,,,,
+Entity,AL-QARD AL-HASSAN ASSOCIATION,,Beirut,,LB,,Lebanon
+Entity,FATAH AL-ISLAM,Nahr al-Barid Palestinian refugee camp,,,LB,,Lebanon
+Entity,ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE,,Tehran,,,,Iran
+Individual,ZULUAGA LINDO  Francisco Javier,c/o SOCIEDAD SUPERDEPORTES LTDA.,Bogota,,CO,,Colombia
+Individual,VANOY MURILLO  Ramiro,Carrera 86 No. 13B-89  Apt. 302F,Cali,,CO,,Colombia
+Entity,SOCIEDAD SUPERDEPORTES LTDA.,Carrera 10 No. 93A-29,Bogota,,CO,,Colombia
+Individual,AL-KHASHIBAN  Fahd Muhammad 'Abd Al-'Aziz,,,,,,
+Individual,SUGHAYR  Muhammad 'Abdallah Salih,,,,,,
+Individual,AL-TALHI  Abdul Rahim,,Buraydah,,SA,,Saudi Arabia
+Individual,REZAIE  Morteza,,,,,,
+Individual,AHMADIAN  Ali Akbar,,,,,,
+Individual,SOLEIMANI  Qasem,,,,,,
+Individual,HEJAZI  Mohammad,,,,,,
+Individual,AL-SHEIBANI  Abu Mustafa,,Tehran,,,,Iran
+Entity,TAMILS REHABILITATION ORGANISATION,Kandasamy Koviladi  Kandy Road (A9 Road),Kilinochchi,,LK,,Sri Lanka
+Entity,KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH,No. 221  Phase 4  North Falamak-Zarafshan Intersection  Shahrak-E-Ghods,Tehran 14678,,,,Iran
+Entity,ORIENTAL OIL KISH,Second Floor  96/98 East Atefi St.  Africa Blvd.,Tehran,,,,Iran
+Entity,GHORB KARBALA,No. 2 Firouzeh Alley  Shahid Hadjipour St.  Resalat Highway,Tehran,,,,Iran
+Entity,SEPASAD ENGINEERING COMPANY,No. 4 Corner of Shad St.  Mollasadra Ave.  Vanak Square,Tehran,,,,Iran
+Entity,GHORB NOOH,P.O. Box 16765-3476,Tehran,,,,Iran
+Entity,OMRAN SAHEL,,Tehran,,,,Iran
+Entity,SAHEL CONSULTANT ENGINEERS,No. 57  Eftekhar St.  Larestan St.  Motahhari Ave,Tehran,,,,Iran
+Entity,HARA COMPANY,,Tehran,,,,Iran
+Entity,GHARARGAHE SAZANDEGI GHAEM,No. 25  Valiasr St.  Azadi Sq.,Tehran,,,,Iran
+Individual,HARDAN  Assaad Halim,,,,,,
+Individual,WAHHAB  Wi'am,,,,,,
+Individual,MAKHLUF  Hafiz,,,,,,
+Entity,BELNEFTEKHIM,73 Dzerzhinskogo Avenue,Minsk 220116,,BY,,Belarus
+Entity,BELNEFTEKHIM USA  INC.,13 Branch St.  # 213,Methuen  MA 01844,,,,United States
+Individual,BAHMANYAR  Bahmanyar Morteza,,,,,,
+Individual,DASTJERDI  Ahmad Vahid,,,,,,
+Individual,ESMAELI  Reza-Gholi,,,,,,
+Individual,SALIMI  Hosein,,Tehran,,,,Iran
+Individual,NOOR MUHAMMAD  Abdul Majeed,c/o FMF GENERAL TRADING LLC,Dubai,,AE,,United Arab Emirates
+Individual,KHAN  Sherbaz,c/o SHAHBAZ KHAN GENERAL TRADING LLC,Dubai,,AE,,United Arab Emirates
+Individual,DUZCAN  Ceylan,,,,AE,,United Arab Emirates
+Individual,SCHNEIDER  Simon,c/o OFFENBACH HAUSHALTWAREN B.V.,Beverwijk,,,,Netherlands
+Individual,MICHIELSEN  Tom,,,,BE,,Belgium
+Individual,GHANI  Mohammad Nadeem,,,,,,United Kingdom
+Individual,LOAN  Waseem Rauf,c/o AL AMLOOD TRADING LLC,Dubai,,AE,,United Arab Emirates
+Individual,BEHZAD  Ahmad Abdulla Mohammad Abdulla,c/o SHAHBAZ KHAN GENERAL TRADING LLC,Dubai,,AE,,United Arab Emirates
+Individual,AZAM  Amir,c/o A A TRADING FZCO,Dubai,,AE,,United Arab Emirates
+Entity,FMF GENERAL TRADING LLC,Ahmad Abdulla Bahzad Building  Al Qusais Street  Al Qusais Industrial Area,Dubai,,AE,,United Arab Emirates
+Entity,AL AMLOOD TRADING LLC,Ali Rashid Lootah Building  Al Khaleej Street  Al Baraha Area,Dubai,,AE,,United Arab Emirates
+Entity,A A TRADING FZCO,P.O. Box 37089,Dubai,,AE,,United Arab Emirates
+Entity,BELS FLOWERS IMPORT EXPORT BVBA,Lange Lobroekstraat 8,Antwerpen 2060,,BE,,Belgium
+Entity,OFFENBACH HAUSHALTWAREN B.V.,Rietlanden 5 - A,Beverwijk 1948,,,,Netherlands
+Entity,KHAN & SCHIRINDEL GMBH,Schwalbacher Strasse 19,Weisbaden 65185,,DE,,Germany
+Entity,SAF TECH S.L.,Calle Serrano 52,Barcelona 08031,,ES,,Spain
+Entity,DUBAI TRADING COMPANY,44 - 45  Royal Shopping Plaza  Industrial Estate  Hayatabad,Peshawar,,PK,,Pakistan
+Entity,ZULEKHA GENERAL TRADING LLC,P.O. Box 5456,Ajman,,AE,,United Arab Emirates
+Entity,SHAHBAZ TV CENTER,Shop No. 1-2  Block A  Jamrud Road  Royal Market,Peshawar,,PK,,Pakistan
+Entity,SHAHNAWAZ TRADERS,Shop No. 1-2  Block A  Jamrud Road  Royal Market,Peshawar,,PK,,Pakistan
+Entity,SHER MATCH INDUSTRIES (PVT.) LIMITED,Plot Numbers 119-121  Industrial Estate  Jamrud Road  Hayatabad,Peshawar,,PK,,Pakistan
+Entity,SHAHBAZ KHAN GENERAL TRADING LLC,Al Ghas Building  Baniyas Square  Al Rigga Area  Flat No. 106,Dubai,,AE,,United Arab Emirates
+Individual,MALEKI  Naser,c/o SHIG,Tehran,,,,Iran
+Individual,DROUKDEL  Abdelmalek,,Meftah,,DZ,,Algeria
+Individual,CAZARES SALAZAR  Blanca Margarita,Calle G. Robles No. 152,Culiacan  Sinaloa,,MX,,Mexico
+Individual,MEZA GASPAR  Arturo,Avenida Rodolfo G. Robles No. 153  Sur  Colonia Aldama,Culiacan  Sinaloa,,MX,,Mexico
+Individual,MEZA CAZARES  Arturo,Avenida Rodolfo Robles 153 Sur  Colonia Jorge Almada,Culiacan  Sinaloa,,MX,,Mexico
+Individual,MEZA CAZARES  Lizbeth,Avenida Rodolfo Robles 153 Sur  Colonia Jorge Almada,Culiacan  Sinaloa,,MX,,Mexico
+Individual,PEREZ VERDUZCO  Roberto,Calle Cerro Agudo No. 3191  Colonia Loma Linda,Culiacan  Sinaloa,,MX,,Mexico
+Individual,BELTRAN ROMERO  Mireya Denisse,Paseo Estrella de Mar No. 1210  Seccion Coronado  Colonia Playas,Tijuana  Baja California,,MX,,Mexico
+Individual,BELTRAN SANCHEZ  Hector Manuel,Paseo Estrella Del Mar No. 1210  Playas de Tijuana,Tijuana  Baja California,,MX,,Mexico
+Individual,AGUIRRE SANCHEZ  Blanca Armida,Blvd. Agua Caliente No. 148,Tijuana  Baja California,,MX,,Mexico
+Individual,AGUIRRE SANCHEZ  Claudia,Calle Gladiolas No. 28  Fraccionamiento Del Prado,Tijuana  Baja California,,MX,,Mexico
+Individual,OLIVAS OJEDA  Marco Antonio,Calle Jesus Almada No. 214  Colonia Pueblo Nuevo 1,Navolato  Sinaloa,,MX,,Mexico
